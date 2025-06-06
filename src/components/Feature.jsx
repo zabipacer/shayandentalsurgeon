@@ -8,21 +8,21 @@ const services = [
     title: "Dental Checkup in Lahore",
     description:
       "Comprehensive dental exams with advanced diagnostics—including oral cancer screening and digital X-rays—to ensure optimal oral health in Lahore.",
-    image: "/assets/images/dc.png",
+    image: "/assets/images/dc.webp",
     link: "/",
   },
   {
     title: "Scaling & Polishing in Lahore",
     description:
       "State-of-the-art ultrasonic cleaning to remove tartar and plaque buildup, preventing gum disease and promoting long-term dental health.",
-    image: "/assets/images/Scp.png",
+    image: "/assets/images/Scp.webp",
     link: "/",
   },
   {
     title: "Fluoride Treatment in Lahore",
     description:
       "Professional fluoride application to strengthen your enamel and safeguard against cavities—for both adults and children.",
-    image: "/assets/images/ft.png",
+    image: "/assets/images/ft.webp",
     link: "/",
   },
   // Cosmetic Dentistry
@@ -30,14 +30,14 @@ const services = [
     title: "Teeth Whitening in Lahore",
     description:
       "Chairside LED-accelerated whitening for a smile up to 8 shades brighter in under an hour—using enamel-safe solutions.",
-    image: "/assets/images/tw.png",
+    image: "/assets/images/tw.webp",
     link: "/",
   },
   {
     title: "Smile Makeover in Lahore",
     description:
       "Personalized cosmetic plans combining veneers, crowns, and whitening to achieve a complete smile transformation.",
-    image: "/assets/images/sm.png",
+    image: "/assets/images/sm.webp",
     link: "/",
   },
   {
@@ -74,7 +74,7 @@ const services = [
     title: "Braces & Aligners in Lahore",
     description:
       "Straighten your teeth with fixed braces or clear aligners—tailored for comfort, efficiency, and minimal visibility.",
-    image: "/assets/images/braces.png",
+    image: "/assets/images/b1.webp",
     link: "/",
   },
   // Root Canal & Surgery
