@@ -18,15 +18,14 @@ const Footer = () => {
           <h4 className="text-xl font-semibold mb-4">Doctor Teeth Clinic</h4>
           <p className="text-sm mb-2 flex items-center gap-2">
             <FaMapMarkerAlt />
-            Ajmal Center, near Nadra Executive Office, opp. Gourmet Bakers, Batala Colony Faisalabad
-          </p>
+          Shop no. 1, 592 Khayaban-e-Jinnah, Airline Society, Lahore, 54000</p>
           <p className="text-sm mb-2 flex items-center gap-2">
             <FaPhone />
-            <a href="tel:0321 6739504" className="hover:underline">0321 6739504</a>
+            <a href="tel:+923001404630" className="hover:underline">+92 300-1404630</a>
           </p>
           <p className="text-sm flex items-center gap-2">
             <FaEnvelope />
-            <a href="mailto:chocobeans008@gmail.com" className="hover:underline">chocobeans008@gmail.com</a>
+            <a href="mailto:shayan08@gmail.com" className="hover:underline">shayan08@gmail.com</a>
           </p>
         </div>
 
@@ -65,14 +64,14 @@ const Footer = () => {
             </a>
           </div>
           <p className="text-sm">
-            Looking for a <strong>dentist near Eden Valley or Peoples Colony Faisalabad</strong>? Visit Doctor Teeth for pain-free dental care.
+            Looking for a <strong>dentist near    Shop no. 1, 592 Khayaban-e-Jinnah, Airline Society, Lahore, 54000</strong>? Visit Shayan Dental surgery for pain-free dental care.
           </p>
         </div>
 
       </div>
 
       <div className="text-center mt-10 text-xs text-gray-300 border-t border-gray-700 pt-4">
-        © {new Date().getFullYear()} Doctor Teeth Clinic Faisalabad. All rights reserved.
+        © {new Date().getFullYear()} Shayan Dental Surgery. All rights reserved.
       </div>
     </footer>
   );
