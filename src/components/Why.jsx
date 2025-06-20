@@ -50,30 +50,8 @@ const WhyChooseUs = () => {
         </div>
       </div>
 
-      {/* Schema.org JSON-LD */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "MedicalOrganization",
-            name: "Shayan Dental Surgery",
-            medicalSpecialty: ["Dentistry", "Emergency", "Cosmetic"],
-            address: {
-              "@type": "PostalAddress",
-              streetAddress: "Shop 1, 592-Airline Society, Khayaban-e-Jinnah Road",
-              addressLocality: "Lahore",
-              addressRegion: "Punjab",
-              postalCode: "54000",
-              addressCountry: "PK",
-            },
-            telephone: "+923001404630",
-            url: "https://g.co/kgs/rwGJ9VM",
-            description:
-              "Shayan Dental Surgery in Lahore offers pain-free dentistry, 24/7 emergency care, and FDA-approved materials—ensuring every patient leaves with a healthy, confident smile.",
-          }),
-        }}
-      />
+    
+    
       <style jsx>{`
         @keyframes fadeInUp {
           from {

@@ -31,34 +31,89 @@ const schemaData = {
   "@context": "https://schema.org",
   "@type": "Dentist",
   name: "Shayan Dental Surgery",
-  image: "/assets/images/shayan-logo.png",
+  image: "/shlogo.jpg",
   url: "https://g.co/kgs/rwGJ9VM",
   telephone: "+923001404630",
   priceRange: "PKR 500 - 5000",
   address: {
     "@type": "PostalAddress",
-    streetAddress: "Shop 1, 592-Airline Society, Khayaban-e-Jinnah Road",
+    streetAddress: "Shop no. 1, 592 Khayaban-e-Jinnah, Airline Society, Lahore, 54000",
     addressLocality: "Lahore",
     addressRegion: "Punjab",
-    postalCode: "54000",
+    postalCode: "54770",
     addressCountry: "PK",
   },
-  openingHoursSpecification: [
-    {
-      "@type": "OpeningHoursSpecification",
-      dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-      opens: "09:00",
-      closes: "21:00",
-    },
-    {
-      "@type": "OpeningHoursSpecification",
-      dayOfWeek: "Sunday",
-      opens: "09:00",
-      closes: "21:00",
-    },
-  ],
+"openingHoursSpecification": [
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Monday",
+    "opens": "12:00",
+    "closes": "14:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Monday",
+    "opens": "17:00",
+    "closes": "22:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Tuesday",
+    "opens": "12:00",
+    "closes": "14:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Tuesday",
+    "opens": "17:00",
+    "closes": "22:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Wednesday",
+    "opens": "12:00",
+    "closes": "14:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Wednesday",
+    "opens": "17:00",
+    "closes": "22:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Thursday",
+    "opens": "12:00",
+    "closes": "14:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Thursday",
+    "opens": "17:00",
+    "closes": "22:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Friday",
+    "opens": "17:00",
+    "closes": "22:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Saturday",
+    "opens": "17:00",
+    "closes": "22:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Sunday",
+    "opens": "17:00",
+    "closes": "22:00"
+  }
+],
+
   sameAs: [
-    "https://www.facebook.com/shayandentalsurgery",
+    "https://www.facebook.com/p/Shayan-Dental-Surgery-100057351403885/",
     "https://www.instagram.com/shayandentalsurgery/",
   ],
   potentialAction: {

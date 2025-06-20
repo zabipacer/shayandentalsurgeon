@@ -51,31 +51,7 @@ const LocalSEOSection = () => {
           </a>
         </div>
 
-        {/* Schema Markup */}
-        <script type="application/ld+json">
-          {JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "Dentist",
-            "name": "Shayan Dental Surgery",
-            "image": "https://example.com/logo.png",
-            "address": {
-              "@type": "PostalAddress",
-              "streetAddress": "New Defense Colony, Jampur Road",
-              "addressLocality": "Dera Ghazi Khan",
-              "addressRegion": "Punjab",
-              "postalCode": "32200",
-              "addressCountry": "PK"
-            },
-            "geo": {
-              "@type": "GeoCoordinates",
-              "latitude": 30.032486,
-              "longitude": 70.640244
-            },
-            "url": "https://g.co/kgs/9g2VKYJ",
-            "telephone": "+92-300-1404630",
-            "openingHours": "Mo-Su 09:00-23:00"
-          })}
-        </script>
+      
       </div>
     </section>
   );

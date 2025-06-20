@@ -37,9 +37,7 @@ export const Navbar = () => {
           <a href="/#about" className="hover:text-blue-700 transition">
             About
           </a>
-          <a href="/blogs" className="hover:text-blue-700 transition">
-            Blogs
-          </a>
+        
          
         </div>
 
@@ -87,9 +85,7 @@ export const Navbar = () => {
           <a href="#about" onClick={() => setMenuOpen(false)} className="block hover:text-blue-600">
             About
           </a>
-    <a href="/blogs" className="hover:text-blue-700 transition">
-            Blogs
-          </a>        
+         
         </div>
       )}
     </nav>
