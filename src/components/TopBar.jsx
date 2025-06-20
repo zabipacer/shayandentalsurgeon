@@ -5,13 +5,18 @@ export default function TopBar() {
     <div className="bg-[#494949] text-white text-sm py-2 px-4 flex justify-between items-center">
       {/* Mobile View */}
       <div className="flex sm:hidden pb-2 pt-2 justify-between w-full items-center">
-       <a href="https://www.facebook.com/doctorteethdental"   target="_blank"
+       <a href="https://www.facebook.com/p/Shayan-Dental-Surgery-100057351403885/"   target="_blank"
   rel="noopener noreferrer"><Facebook className="w-6 h-6 text-[#A6BF39] cursor-pointer transition-transform duration-200 hover:scale-110" />  </a>
           
-   <button className="bg-[#A6BF39] cursor-pointer text-black px-3 py-1.5 rounded text-sm font-semibold transition duration-200 hover:bg-[#90aa32] hover:scale-105">
-          Book appointment
-        </button>
-   <a  href="https://www.instagram.com/doctorteethclinic/"   target="_blank"
+     <a
+  href="https://wa.me/923001404630"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <button className="bg-[#A6BF39] cursor-pointer text-black px-4 py-2 rounded text-base font-semibold transition duration-200 hover:bg-[#90aa32] hover:scale-105">
+    Book Appointment
+  </button>
+</a><a  href="https://www.instagram.com/shayandentalsurgery/?hl=en"   target="_blank"
   rel="noopener noreferrer">     <Instagram className="w-6 h-6 text-[#A6BF39] cursor-pointer transition-transform duration-200 hover:scale-110" /></a>
       </div>
 
@@ -32,10 +37,10 @@ export default function TopBar() {
         {/* Right: Social Icons & Buttons */}
         <div className="flex flex-col sm:flex-row items-start sm:items-center gap-3 sm:gap-4 text-base w-full sm:w-auto">
           <div className="flex items-center space-x-3">
-          <a href="https://www.facebook.com/doctorteethdental"   target="_blank"
+          <a href="https://www.facebook.com/p/Shayan-Dental-Surgery-100057351403885/"   target="_blank"
   rel="noopener noreferrer"><Facebook className="w-6 h-6 text-[#A6BF39] cursor-pointer transition-transform duration-200 hover:scale-110" />  </a>
           
-   <a  href="https://www.instagram.com/doctorteethclinic/"   target="_blank"
+   <a  href="https://www.instagram.com/shayandentalsurgery/?hl=en"   target="_blank"
   rel="noopener noreferrer">     <Instagram className="w-6 h-6 text-[#A6BF39] cursor-pointer transition-transform duration-200 hover:scale-110" /></a>
           </div>
 
@@ -45,7 +50,7 @@ export default function TopBar() {
           {/* Buttons */}
           <div className="flex flex-col sm:flex-row gap-2">
            <a
-  href="https://wa.me/923216739504"
+  href="https://wa.me/923001404630"
   target="_blank"
   rel="noopener noreferrer"
 >
@@ -55,7 +60,7 @@ export default function TopBar() {
 </a>
 
            <a
-  href="https://g.co/kgs/k3KWKpS"
+  href="https://g.co/kgs/sQRgaAz"
   target="_blank"
   rel="noopener noreferrer"
 >
