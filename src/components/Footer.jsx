@@ -44,7 +44,7 @@ const Footer = () => {
         <nav aria-label="Top Services">
           <h4 className="text-xl font-semibold mb-4">Top Services</h4>
           <ul className="text-sm space-y-2">
-            <li><a href="/dental-implants-faisalabad" className="hover:underline">Dental Implants Faisalabad</a></li>
+            <li><a href="/dental-implants-faisalabad" className="hover:underline">Dental Implants Lahore</a></li>
             <li><a href="/braces-faisalabad" className="hover:underline">Braces Treatment</a></li>
             <li><a href="/root-canal-faisalabad" className="hover:underline">Root Canal Treatment</a></li>
             <li><a href="/teeth-whitening-faisalabad" className="hover:underline">Teeth Whitening</a></li>
