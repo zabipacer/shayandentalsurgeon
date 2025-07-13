@@ -7,2253 +7,1871 @@ export const blogContents = {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Premium Dental Care - Satiana Road, Faisalabad</title>
+    <title>Dental Implant Cost in Lahore 2025: Complete Price Guide | Shayan Dental Surgery</title>
+    <meta name="description" content="Comprehensive guide to dental implant costs in Lahore 2025. Single implant PKR 80,000-150,000. Multiple implants & full mouth reconstruction pricing. Call +92 300 1404630">
+    <meta name="keywords" content="dental implant cost Lahore, implant price Pakistan, dental implants Lahore, teeth implant cost, oral surgeon Lahore, dental clinic Lahore">
+    <meta name="author" content="Shayan Dental Surgery">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://shayandentalclinic.com/dental-implant-cost-lahore-2025">
+    <meta property="og:title" content="Dental Implant Cost in Lahore 2025: Complete Price Guide">
+    <meta property="og:description" content="Get transparent pricing for dental implants in Lahore. Single implant from PKR 80,000. Payment plans available. Book consultation today!">
+    <meta property="og:image" content="https://shayandentalclinic.com/images/dental-implant-cost-lahore.jpg">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://shayandentalclinic.com/dental-implant-cost-lahore-2025">
+    <meta property="twitter:title" content="Dental Implant Cost in Lahore 2025: Complete Price Guide">
+    <meta property="twitter:description" content="Get transparent pricing for dental implants in Lahore. Single implant from PKR 80,000. Payment plans available. Book consultation today!">
+    <meta property="twitter:image" content="https://shayandentalclinic.com/images/dental-implant-cost-lahore.jpg">
+    
+    <!-- Schema.org structured data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Shayan Dental Surgery",
+        "image": "https://shayandentalclinic.com/images/clinic-logo.jpg",
+        "description": "Leading dental clinic in Lahore offering painless dental implants, cosmetic dentistry, and comprehensive oral care.",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Shop no. 1, 592 Khayaban-e-Jinnah, Airline Society",
+            "addressLocality": "Lahore",
+            "addressRegion": "Punjab",
+            "postalCode": "54000",
+            "addressCountry": "PK"
+        },
+        "telephone": "+92 300 1404630",
+        "email": "shayan08@gmail.com",
+        "url": "https://shayandentalclinic.com",
+        "priceRange": "PKR 80,000 - PKR 1,200,000",
+        "openingHours": "Mo-Su 09:00-21:00",
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "31.5497",
+            "longitude": "74.3436"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "1000"
+        }
+    }
+    </script>
+    
+    <link rel="canonical" href="https://shayandentalclinic.com/dental-implant-cost-lahore-2025">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'dental-blue': '#0ea5e9',
+                        'dental-green': '#10b981',
+                        'dental-purple': '#8b5cf6',
+                        'dental-dark': '#0f172a',
+                        'dental-light': '#f8fafc',
+                    },
+                    animation: {
+                        'float': 'float 3s ease-in-out infinite',
+                        'pulse-slow': 'pulse 3s ease-in-out infinite',
+                        'bounce-slow': 'bounce 2s ease-in-out infinite',
+                    },
+                    keyframes: {
+                        float: {
+                            '0%, 100%': { transform: 'trangreyY(0px)' },
+                            '50%': { transform: 'trangreyY(-10px)' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        :root {
-            --primary-gradient: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-            --secondary-gradient: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
-            --accent-gradient: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%);
-            --success-gradient: linear-gradient(135deg, #10b981 0%, #059669 100%);
-            --glass-bg: rgba(255, 255, 255, 0.05);
-            --glass-border: rgba(255, 255, 255, 0.1);
-            --card-bg: rgba(15, 23, 42, 0.8);
-            --text-light: #f1f5f9;
-            --text-muted: #cbd5e1;
-            --text-dark: #0f172a;
-            --shadow-soft: 0 20px 40px rgba(15, 23, 42, 0.1);
-            --shadow-medium: 0 30px 60px rgba(15, 23, 42, 0.15);
-            --shadow-strong: 0 40px 80px rgba(15, 23, 42, 0.2);
-        }
-
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+        
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            line-height: 1.7;
-            color: var(--text-light);
-            background: linear-gradient(135deg, #0f172a 0%, #1e293b 25%, #334155 50%, #475569 75%, #64748b 100%);
-            background-size: 400% 400%;
-            animation: gradientShift 15s ease infinite;
-            overflow-x: hidden;
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #f0f9ff, #e6fffa);
+            background-attachment: fixed;
+            color: #0f172a;
         }
-
-        @keyframes gradientShift {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
+        
+        .glass-morphism {
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(14, 165, 233, 0.1);
         }
-
-        .floating-particles {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            z-index: 1;
+        
+        .gradient-text {
+            background: linear-gradient(135deg, #0ea5e9, #10b981);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
-
-        .particle {
-            position: absolute;
-            width: 4px;
-            height: 4px;
-            background: rgba(59, 130, 246, 0.4);
-            border-radius: 50%;
-            animation: float 20s infinite linear;
+        
+        .interactive-card {
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
         }
-
-        @keyframes float {
-            0% {
-                transform: translateY(100vh) translateX(0px);
-                opacity: 0;
-            }
-            10% {
-                opacity: 1;
-            }
-            90% {
-                opacity: 1;
-            }
-            100% {
-                transform: translateY(-100px) translateX(100px);
-                opacity: 0;
-            }
+        
+        .interactive-card:hover {
+            transform: trangreyY(-8px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
         }
-
-        header {
+        
+        .pricing-table {
+            background: linear-gradient(135deg, rgba(14, 165, 233, 0.05), rgba(16, 185, 129, 0.05));
+            border-radius: 20px;
+        }
+        
+        .hero-pattern {
+            background-image: 
+                radial-gradient(circle at 25% 25%, rgba(14, 165, 233, 0.1) 0%, transparent 50%),
+                radial-gradient(circle at 75% 75%, rgba(16, 185, 129, 0.1) 0%, transparent 50%);
+        }
+        
+        .testimonial-card {
             position: relative;
-            min-height: 100vh;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            overflow: hidden;
+        }
+        
+        .testimonial-card::before {
+            content: """;
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            font-size: 120px;
+            color: rgba(14, 165, 233, 0.1);
+            font-family: Georgia, serif;
+            line-height: 1;
+        }
+        
+        .faq-item {
+            border-radius: 12px;
+            overflow: hidden;
+            margin-bottom: 16px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+        }
+        
+        .faq-question {
+            background: white;
+            padding: 20px;
+            cursor: pointer;
             display: flex;
+            justify-content: space-between;
             align-items: center;
-            justify-content: center;
-            text-align: center;
-            z-index: 2;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .faq-question:hover {
+            background: #f0f9ff;
+        }
+        
+        .faq-answer {
+            background: #f8fafc;
+            padding: 0 20px;
+            max-height: 0;
             overflow: hidden;
+            transition: all 0.4s ease;
         }
-
-        .hero-content {
-            background: var(--glass-bg);
-            backdrop-filter: blur(20px);
-            border: 1px solid var(--glass-border);
-            border-radius: 30px;
-            padding: 4rem 3rem;
-            max-width: 800px;
-            margin: 2rem;
-            box-shadow: var(--shadow-strong);
-            transform: translateY(0);
-            animation: heroFloat 6s ease-in-out infinite;
+        
+        .faq-item.active .faq-answer {
+            padding: 20px;
+            max-height: 500px;
         }
-
-        @keyframes heroFloat {
-            0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-20px); }
-        }
-
-        .hero-content h1 {
-            font-size: clamp(2.5rem, 5vw, 4rem);
-            font-weight: 800;
-            background: linear-gradient(135deg, #f1f5f9 0%, #cbd5e1 50%, #94a3b8 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 1.5rem;
-            text-shadow: 0 10px 30px rgba(59, 130, 246, 0.3);
-            animation: textGlow 3s ease-in-out infinite alternate;
-        }
-
-        @keyframes textGlow {
-            from { filter: drop-shadow(0 0 20px rgba(59, 130, 246, 0.3)); }
-            to { filter: drop-shadow(0 0 40px rgba(59, 130, 246, 0.6)); }
-        }
-
-        .hero-content p {
-            font-size: 1.3rem;
-            color: var(--text-light);
+        
+        .section-title {
+            position: relative;
+            display: inline-block;
             margin-bottom: 2.5rem;
-            opacity: 0.9;
         }
-
-        main {
-            position: relative;
-            z-index: 2;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 2rem;
-        }
-
-        section {
-            background: var(--card-bg);
-            backdrop-filter: blur(20px);
-            border: 1px solid var(--glass-border);
-            border-radius: 25px;
-            padding: 3rem;
-            margin: 3rem 0;
-            box-shadow: var(--shadow-medium);
-            transform: translateY(50px);
-            opacity: 0;
-            animation: slideUp 0.8s ease forwards;
-            position: relative;
-            overflow: hidden;
-        }
-
-        section::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(59, 130, 246, 0.05), transparent);
-            animation: shimmer 3s infinite;
-        }
-
-        @keyframes shimmer {
-            0% { left: -100%; }
-            100% { left: 100%; }
-        }
-
-        @keyframes slideUp {
-            to {
-                transform: translateY(0);
-                opacity: 1;
-            }
-        }
-
-        section:nth-child(even) {
-            animation-delay: 0.2s;
-        }
-
-        section:nth-child(odd) {
-            animation-delay: 0.4s;
-        }
-
-        h2 {
-            font-size: 2.5rem;
-            font-weight: 700;
-            background: var(--accent-gradient);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 2rem;
-            position: relative;
-        }
-
-        h2::after {
-            content: '';
+        
+        .section-title::after {
+            content: "";
             position: absolute;
             bottom: -10px;
             left: 0;
             width: 60px;
             height: 4px;
-            background: var(--accent-gradient);
-            border-radius: 2px;
-            animation: expandLine 2s ease infinite;
-        }
-
-        @keyframes expandLine {
-            0%, 100% { width: 60px; }
-            50% { width: 120px; }
-        }
-
-        h3 {
-            font-size: 1.8rem;
-            font-weight: 600;
-            color: var(--text-light);
-            margin: 2rem 0 1.5rem 0;
-            position: relative;
-            padding-left: 20px;
-        }
-
-        h3::before {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 4px;
-            height: 30px;
-            background: var(--success-gradient);
+            background: linear-gradient(90deg, #0ea5e9, #10b981);
             border-radius: 2px;
         }
-
-        h4 {
-            font-size: 1.4rem;
-            font-weight: 600;
-            color: var(--text-light);
-            margin-bottom: 1rem;
-        }
-
-        p {
-            font-size: 1.1rem;
-            color: var(--text-muted);
-            margin-bottom: 1.5rem;
-            text-align: justify;
-        }
-
-        .service-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            margin: 2rem 0;
-        }
-
-        .service-card {
-            background: rgba(15, 23, 42, 0.6);
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(59, 130, 246, 0.2);
-            border-radius: 20px;
-            padding: 2rem;
-            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-            position: relative;
-            overflow: hidden;
-        }
-
-        .service-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 3px;
-            background: var(--secondary-gradient);
-            transform: scaleX(0);
-            transform-origin: left;
-            transition: transform 0.4s ease;
-        }
-
-        .service-card:hover {
-            transform: translateY(-10px) scale(1.02);
-            box-shadow: 0 30px 60px rgba(15, 23, 42, 0.3);
-            border-color: rgba(59, 130, 246, 0.4);
-        }
-
-        .service-card:hover::before {
-            transform: scaleX(1);
-        }
-
-        .highlight-box {
-            background: linear-gradient(135deg, rgba(6, 182, 212, 0.1) 0%, rgba(8, 145, 178, 0.1) 100%);
-            border: 2px solid rgba(6, 182, 212, 0.3);
-            border-radius: 20px;
-            padding: 2rem;
-            margin: 2rem 0;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .highlight-box::before {
-            content: '💡';
-            position: absolute;
-            top: 1rem;
-            right: 1rem;
-            font-size: 1.5rem;
-            animation: pulse 2s infinite;
-        }
-
-        @keyframes pulse {
-            0%, 100% { transform: scale(1); }
-            50% { transform: scale(1.2); }
-        }
-
-        .emergency-alert {
-            background: linear-gradient(135deg, rgba(239, 68, 68, 0.15) 0%, rgba(220, 38, 38, 0.15) 100%);
-            border: 2px solid rgba(239, 68, 68, 0.4);
-            border-radius: 20px;
-            padding: 2rem;
-            margin: 2rem 0;
-            position: relative;
-            animation: emergencyPulse 3s infinite;
-        }
-
-        @keyframes emergencyPulse {
-            0%, 100% { 
-                box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4);
-            }
-            50% { 
-                box-shadow: 0 0 0 20px rgba(239, 68, 68, 0);
-            }
-        }
-
-        .emergency-alert::before {
-            content: '🚨';
-            position: absolute;
-            top: 1rem;
-            right: 1rem;
-            font-size: 1.5rem;
-            animation: spin 4s linear infinite;
-        }
-
-        @keyframes spin {
-            from { transform: rotate(0deg); }
-            to { transform: rotate(360deg); }
-        }
-
-        ul {
-            list-style: none;
-            padding-left: 0;
-        }
-
-        li {
-            position: relative;
-            padding: 1rem 0 1rem 2.5rem;
-            margin-bottom: 1rem;
-            background: rgba(15, 23, 42, 0.4);
-            border-radius: 15px;
+        
+        .contact-form input,
+        .contact-form textarea {
+            background: rgba(255, 255, 255, 0.8);
+            border: 1px solid rgba(14, 165, 233, 0.2);
             transition: all 0.3s ease;
         }
-
-        li::before {
-            content: '✓';
-            position: absolute;
-            left: 1rem;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 20px;
-            height: 20px;
-            background: var(--success-gradient);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: bold;
-            color: white;
-            font-size: 0.8rem;
-        }
-
-        li:hover {
-            background: rgba(15, 23, 42, 0.6);
-            transform: translateX(10px);
-        }
-
-        footer {
-            background: var(--card-bg);
-            backdrop-filter: blur(20px);
-            border: 1px solid var(--glass-border);
-            border-radius: 25px;
-            padding: 4rem 3rem;
-            margin: 3rem 2rem;
-            text-align: center;
-            box-shadow: var(--shadow-strong);
-            position: relative;
-            overflow: hidden;
-        }
-
-        .cta-section h2 {
-            font-size: 2.8rem;
-            margin-bottom: 2rem;
-        }
-
-        .cta-button {
-            display: inline-block;
-            background: var(--secondary-gradient);
-            color: white;
-            padding: 1.2rem 3rem;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 1.2rem;
-            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-            box-shadow: 0 15px 35px rgba(59, 130, 246, 0.3);
-            position: relative;
-            overflow: hidden;
-        }
-
-        .cta-button::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
-            transition: left 0.5s;
-        }
-
-        .cta-button:hover {
-            transform: translateY(-5px) scale(1.05);
-            box-shadow: 0 25px 50px rgba(59, 130, 246, 0.4);
-        }
-
-        .cta-button:hover::before {
-            left: 100%;
-        }
-
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            .hero-content {
-                padding: 2rem 1.5rem;
-                margin: 1rem;
-            }
-
-            .hero-content h1 {
-                font-size: 2rem;
-            }
-
-            section {
-                padding: 2rem 1.5rem;
-                margin: 2rem 1rem;
-            }
-
-            .service-grid {
-                grid-template-columns: 1fr;
-                gap: 1.5rem;
-            }
-
-            h2 {
-                font-size: 2rem;
-            }
-
-            main {
-                padding: 0 1rem;
-            }
-        }
-
-        /* Scroll animations */
-        @media (prefers-reduced-motion: no-preference) {
-            section {
-                animation-duration: 1s;
-            }
-        }
-
-        strong {
-            color: var(--text-light);
-            font-weight: 600;
+        
+        .contact-form input:focus,
+        .contact-form textarea:focus {
+            border-color: #0ea5e9;
+            box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.2);
+            background: white;
         }
     </style>
 </head>
-<body>
-    <div class="floating-particles"></div>
+<body class="min-h-screen">
+    <!-- Floating Elements -->
+    <div class="fixed inset-0 overflow-hidden pointer-events-none z-0">
+        <div class="absolute top-20 left-10 w-20 h-20 bg-blue-200 rounded-full opacity-20 animate-float"></div>
+        <div class="absolute top-40 right-20 w-16 h-16 bg-green-200 rounded-full opacity-20 animate-bounce-slow"></div>
+        <div class="absolute bottom-40 left-20 w-24 h-24 bg-purple-200 rounded-full opacity-20 animate-pulse-slow"></div>
+        <div class="absolute top-1/3 right-1/4 w-32 h-32 bg-blue-100 rounded-full opacity-15 animate-float"></div>
+    </div>
 
-    <header>
-        <div class="hero-content">
-            <h1>Premium Dental Care</h1>
-            <p>Experience world-class dental services near Satiana Road, Faisalabad with cutting-edge technology and compassionate care</p>
+    <!-- Header -->
+    <header class="glass-morphism sticky top-0 z-50 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center space-x-4">
+                    <div class="w-12 h-12 bg-gradient-to-r from-dental-blue to-dental-green rounded-xl flex items-center justify-center">
+                        <span class="text-white font-bold text-xl"><i class="fas fa-tooth"></i></span>
+                    </div>
+                    <div>
+                        <h1 class="text-2xl font-bold text-dental-dark">Shayan Dental Surgery</h1>
+                        <p class="text-xs sm:text-sm text-gray-600">Premium Dental Care in Lahore</p>
+                    </div>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <div class="hidden md:flex items-center space-x-2 text-sm text-gray-600">
+                        <span><i class="fas fa-map-marker-alt text-dental-blue"></i></span>
+                        <span>Airline Society, Lahore</span>
+                    </div>
+                    <a href="tel:+923001404630" class="bg-gradient-to-r from-dental-blue to-dental-green text-white px-4 py-2 sm:px-6 sm:py-3 rounded-full font-semibold hover:shadow-xl transform hover:-trangrey-y-1 transition-all duration-300 flex items-center space-x-2">
+                        <span><i class="fas fa-phone-alt"></i></span>
+                        <span class="hidden sm:inline">+92 300 1404630</span>
+                        <span class="sm:hidden">Call Now</span>
+                    </a>
+                </div>
+            </div>
         </div>
     </header>
 
-    <main>
-        <section>
-            <h2>Finding Quality Dental Care Near Satiana Road, Faisalabad</h2>
-            <p>The Satiana Road area of Faisalabad has experienced significant growth in healthcare services over the past decade, with numerous dental clinics establishing themselves to serve the local community. This bustling commercial and residential hub offers residents convenient access to a variety of dental care options, from general family dentistry to specialized treatments.</p>
-            
-            <p>Choosing the right dentist is crucial for maintaining optimal oral health throughout your lifetime. A good dentist doesn't just treat problems as they arise; they work with you to prevent issues before they become serious, saving you time, money, and discomfort in the long run. The dental landscape in Faisalabad has evolved considerably, with many practitioners now offering modern, patient-centered care that emphasizes comfort, convenience, and comprehensive treatment planning.</p>
-            
-            <p>When searching for dental care near Satiana Road, you'll find that most clinics cater to the diverse needs of the local population, offering services in multiple languages and accommodating various cultural preferences. This multicultural approach ensures that patients from all backgrounds feel comfortable and understood during their dental visits.</p>
-        </section>
-
-        <section>
-            <h2>Top Dental Services Available Near Satiana Road</h2>
-            
-            <h3>General Dentistry Services</h3>
-            <div class="service-grid">
-                <div class="service-card">
-                    <h4>Routine Checkups & Cleanings</h4>
-                    <p>General dentistry forms the foundation of oral healthcare, and most dental clinics near Satiana Road offer a comprehensive range of basic services. Routine checkups and cleanings are typically scheduled every six months and include thorough examinations of your teeth, gums, and mouth, along with professional cleaning to remove plaque and tartar buildup that regular brushing and flossing can't eliminate.</p>
+    <!-- Hero Section -->
+    <section class="relative overflow-hidden hero-pattern py-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-16">
+            <div class="grid lg:grid-cols-2 gap-12 items-center">
+                <div class="text-center lg:text-left">
+                    <div class="inline-block bg-gradient-to-r from-dental-blue to-dental-green text-white px-4 py-2 rounded-full text-sm font-semibold mb-6">
+                        <i class="fas fa-gem mr-2"></i>Premium Dental Care Since 2015
+                    </div>
+                    <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold text-dental-dark mb-6 leading-tight">
+                        Dental Implant Cost in 
+                        <span class="gradient-text">Lahore 2025</span>
+                    </h1>
+                    <p class="text-lg sm:text-xl text-gray-700 mb-8 leading-relaxed max-w-2xl mx-auto lg:mx-0">
+                        Get transparent pricing for premium dental implants in Lahore. From single tooth replacement to full mouth reconstruction, we offer competitive rates with world-class materials.
+                    </p>
+                    <div class="flex flex-col sm:flex-row gap-4 mb-8 justify-center lg:justify-start">
+                        <a href="tel:+923001404630" class="bg-dental-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-blue-600 transition-all duration-300 transform hover:scale-105 shadow-lg flex items-center justify-center space-x-2">
+                            <span><i class="fas fa-calendar-check"></i></span>
+                            <span>Free Consultation</span>
+                        </a>
+                        <a href="#pricing" class="border-2 border-dental-blue text-dental-blue px-6 py-3 rounded-xl font-semibold hover:bg-dental-blue hover:text-white transition-all duration-300 transform hover:scale-105 flex items-center justify-center space-x-2">
+                            <span><i class="fas fa-tags"></i></span>
+                            <span>View Pricing</span>
+                        </a>
+                    </div>
+                    <div class="flex flex-wrap justify-center lg:justify-start items-center gap-6 text-sm text-gray-600">
+                        <div class="flex items-center space-x-2">
+                            <span class="text-yellow-400"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+                            <span>1,000+ Happy Patients</span>
+                        </div>
+                        <div class="flex items-center space-x-2">
+                            <span class="text-dental-green"><i class="fas fa-shield-alt"></i></span>
+                            <span>5-Year Warranty</span>
+                        </div>
+                    </div>
                 </div>
+                <div class="relative hidden lg:block">
+                    <div class="relative z-10">
+                        <img src="https://images.unsplash.com/photo-1628015081036-0747ec8f077a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80" alt="Modern dental clinic in Lahore" class="rounded-2xl shadow-2xl w-full h-96 object-cover">
+                        <div class="absolute inset-0 bg-gradient-to-t from-dental-blue/20 to-transparent rounded-2xl"></div>
+                    </div>
+                    <div class="absolute -top-4 -right-4 w-20 h-20 bg-dental-green rounded-full flex items-center justify-center text-white font-bold text-2xl animate-bounce-slow">
+                        <i class="fas fa-tooth"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive Stats -->
+    <section class="py-12 bg-white/50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-4 gap-6">
+                <div class="text-center interactive-card bg-white rounded-2xl p-6 shadow-lg">
+                    <div class="text-4xl mb-4 animate-pulse-slow text-dental-blue"><i class="fas fa-hospital"></i></div>
+                    <h3 class="text-2xl font-bold text-dental-blue mb-2">1,000+</h3>
+                    <p class="text-gray-600">Successful Implants</p>
+                </div>
+                <div class="text-center interactive-card bg-white rounded-2xl p-6 shadow-lg">
+                    <div class="text-4xl mb-4 animate-pulse-slow text-dental-green"><i class="fas fa-bolt"></i></div>
+                    <h3 class="text-2xl font-bold text-dental-green mb-2">98%</h3>
+                    <p class="text-gray-600">Success Rate</p>
+                </div>
+                <div class="text-center interactive-card bg-white rounded-2xl p-6 shadow-lg">
+                    <div class="text-4xl mb-4 animate-pulse-slow text-dental-purple"><i class="fas fa-shield-alt"></i></div>
+                    <h3 class="text-2xl font-bold text-dental-purple mb-2">5 Year</h3>
+                    <p class="text-gray-600">Warranty</p>
+                </div>
+                <div class="text-center interactive-card bg-white rounded-2xl p-6 shadow-lg">
+                    <div class="text-4xl mb-4 animate-pulse-slow text-dental-blue"><i class="fas fa-certificate"></i></div>
+                    <h3 class="text-2xl font-bold text-dental-blue mb-2">FDA</h3>
+                    <p class="text-gray-600">Approved Materials</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <article class="bg-white rounded-3xl shadow-xl overflow-hidden">
+            <!-- Article Header -->
+            <div class="bg-gradient-to-r from-dental-blue to-dental-green p-6 md:p-8 text-white">
+                <h2 class="text-2xl md:text-3xl font-bold mb-2">Complete Dental Implant Price Guide</h2>
+                <p class="text-lg opacity-90">Everything you need to know about dental implant costs in Lahore</p>
+            </div>
+
+            <div class="p-6 md:p-10">
+                <!-- Introduction with Image -->
+                <section class="mb-16">
+                    <div class="grid lg:grid-cols-2 gap-12 items-center">
+                        <div>
+                            <h2 class="text-3xl md:text-4xl font-bold text-dental-dark mb-6">Understanding Dental Implant Pricing in Pakistan</h2>
+                            <p class="text-lg text-gray-700 mb-6 leading-relaxed">
+                                Are you considering dental implants in Lahore but worried about the cost? You're not alone. Many Pakistani patients delay this life-changing treatment due to pricing concerns. At Shayan Dental Surgery, we believe everyone deserves to know exactly what they're paying for.
+                            </p>
+                            <div class="bg-gradient-to-r from-blue-50 to-green-50 border-l-4 border-dental-blue p-6 rounded-lg">
+                                <h3 class="font-semibold text-dental-dark mb-2 flex items-center"><i class="fas fa-lightbulb text-dental-blue mr-2"></i> Why Prices Vary</h3>
+                                <p class="text-gray-700">Dental implant costs in Pakistan vary based on materials quality, surgeon expertise, clinic standards, and additional procedures required.</p>
+                            </div>
+                        </div>
+                        <div class="relative hidden lg:block">
+                            <img src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80" alt="Dental implant procedure" class="rounded-2xl shadow-xl w-full h-80 object-cover">
+                            <div class="absolute inset-0 bg-gradient-to-t from-dental-blue/10 to-transparent rounded-2xl"></div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Interactive Pricing Calculator -->
+                <section id="pricing" class="mb-16">
+                    <h2 class="text-3xl md:text-4xl font-bold text-dental-dark mb-8 text-center section-title">Dental Implant Pricing 2025</h2>
+                    <div class="pricing-table rounded-2xl p-6 mb-12">
+                        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                            <!-- Single Implant -->
+                            <div class="interactive-card bg-white rounded-2xl p-6 shadow-lg border-2 border-transparent hover:border-dental-blue">
+                                <div class="text-center mb-4">
+                                    <div class="w-16 h-16 bg-dental-blue rounded-full flex items-center justify-center mx-auto mb-4">
+                                        <span class="text-white text-2xl">1</span>
+                                    </div>
+                                    <h3 class="text-xl font-bold text-dental-dark mb-2">Single Implant</h3>
+                                    <p class="text-gray-600 text-sm">Perfect for one missing tooth</p>
+                                </div>
+                                <div class="text-center mb-6">
+                                    <span class="text-3xl font-bold text-dental-blue">PKR 80,000</span>
+                                    <span class="text-md text-gray-600"> - 150,000</span>
+                                </div>
+                                <ul class="space-y-3 mb-6">
+                                    <li class="flex items-start space-x-3">
+                                        <span class="text-green-500 mt-1"><i class="fas fa-check-circle"></i></span>
+                                        <span class="text-gray-700">Premium titanium implant</span>
+                                    </li>
+                                    <li class="flex items-start space-x-3">
+                                        <span class="text-green-500 mt-1"><i class="fas fa-check-circle"></i></span>
+                                        <span class="text-gray-700">Custom ceramic crown</span>
+                                    </li>
+                                    <li class="flex items-start space-x-3">
+                                        <span class="text-green-500 mt-1"><i class="fas fa-check-circle"></i></span>
+                                        <span class="text-gray-700">3D imaging included</span>
+                                    </li>
+                                    <li class="flex items-start space-x-3">
+                                        <span class="text-green-500 mt-1"><i class="fas fa-check-circle"></i></span>
+                                        <span class="text-gray-700">5-year warranty</span>
+                                    </li>
+                                </ul>
+                                <button class="w-full bg-dental-blue text-white py-3 rounded-lg font-semibold hover:bg-blue-600 transition-colors flex items-center justify-center">
+                                    <i class="fas fa-comment-medical mr-2"></i> Get Quote
+                                </button>
+                            </div>
+
+                            <!-- Multiple Implants -->
+                            <div class="interactive-card bg-white rounded-2xl p-6 shadow-lg border-2 border-dental-green relative">
+                                <div class="absolute top-0 left-1/2 transform -trangrey-x-1/2 -trangrey-y-1/2 bg-dental-green text-white px-4 py-1 rounded-full text-sm font-semibold">
+                                    MOST POPULAR
+                                </div>
+                                <div class="text-center mb-4">
+                                    <div class="w-16 h-16 bg-dental-green rounded-full flex items-center justify-center mx-auto mb-4">
+                                        <span class="text-white text-2xl">2-6</span>
+                                    </div>
+                                    <h3 class="text-xl font-bold text-dental-dark mb-2">Multiple Implants</h3>
+                                    <p class="text-gray-600 text-sm">2-6 implants with bridges</p>
+                                </div>
+                                <div class="text-center mb-6">
+                                    <span class="text-3xl font-bold text-dental-green">PKR 180,000</span>
+                                    <span class="text-md text-gray-600"> - 450,000</span>
+                                </div>
+                                <ul class="space-y-3 mb-6">
+                                    <li class="flex items-start space-x-3">
+                                        <span class="text-green-500 mt-1"><i class="fas fa-check-circle"></i></span>
+                                        <span class="text-gray-700">2-6 premium implants</span>
+                                    </li>
+                                    <li class="flex items-start space-x-3">
+                                        <span class="text-green-500 mt-1"><i class="fas fa-check-circle"></i></span>
+                                        <span class="text-gray-700">Custom bridge work</span>
+                                    </li>
+                                    <li class="flex items-start space-x-3">
+                                        <span class="text-green-500 mt-1"><i class="fas fa-check-circle"></i></span>
+                                        <span class="text-gray-700">Advanced planning</span>
+                                    </li>
+                                    <li class="flex items-start space-x-3">
+                                        <span class="text-green-500 mt-1"><i class="fas fa-check-circle"></i></span>
+                                        <span class="text-gray-700">Extended warranty</span>
+                                    </li>
+                                </ul>
+                                <button class="w-full bg-dental-green text-white py-3 rounded-lg font-semibold hover:bg-green-600 transition-colors flex items-center justify-center">
+                                    <i class="fas fa-comment-medical mr-2"></i> Get Quote
+                                </button>
+                            </div>
+
+                            <!-- Full Mouth -->
+                            <div class="interactive-card bg-white rounded-2xl p-6 shadow-lg border-2 border-transparent hover:border-dental-purple">
+                                <div class="text-center mb-4">
+                                    <div class="w-16 h-16 bg-dental-purple rounded-full flex items-center justify-center mx-auto mb-4">
+                                        <span class="text-white text-2xl"><i class="fas fa-smile"></i></span>
+                                    </div>
+                                    <h3 class="text-xl font-bold text-dental-dark mb-2">Full Mouth</h3>
+                                    <p class="text-gray-600 text-sm">Complete smile transformation</p>
+                                </div>
+                                <div class="text-center mb-6">
+                                    <span class="text-3xl font-bold text-dental-purple">PKR 450,000</span>
+                                    <span class="text-md text-gray-600"> - 1,200,000</span>
+                                </div>
+                                <ul class="space-y-3 mb-6">
+                                    <li class="flex items-start space-x-3">
+                                        <span class="text-green-500 mt-1"><i class="fas fa-check-circle"></i></span>
+                                        <span class="text-gray-700">All-on-4 treatment</span>
+                                    </li>
+                                    <li class="flex items-start space-x-3">
+                                        <span class="text-green-500 mt-1"><i class="fas fa-check-circle"></i></span>
+                                        <span class="text-gray-700">Immediate results</span>
+                                    </li>
+                                    <li class="flex items-start space-x-3">
+                                        <span class="text-green-500 mt-1"><i class="fas fa-check-circle"></i></span>
+                                        <span class="text-gray-700">Premium materials</span>
+                                    </li>
+                                    <li class="flex items-start space-x-3">
+                                        <span class="text-green-500 mt-1"><i class="fas fa-check-circle"></i></span>
+                                        <span class="text-gray-700">Lifetime support</span>
+                                    </li>
+                                </ul>
+                                <button class="w-full bg-dental-purple text-white py-3 rounded-lg font-semibold hover:bg-purple-600 transition-colors flex items-center justify-center">
+                                    <i class="fas fa-comment-medical mr-2"></i> Get Quote
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Payment Options -->
+                    <div class="bg-gradient-to-r from-blue-50 to-green-50 rounded-2xl p-6 mb-12">
+                        <h3 class="text-2xl font-bold text-dental-dark mb-4 flex items-center"><i class="fas fa-credit-card text-dental-blue mr-3"></i> Flexible Payment Options</h3>
+                        <div class="grid md:grid-cols-3 gap-4">
+                            <div class="bg-white p-4 rounded-lg">
+                                <div class="text-dental-blue text-3xl mb-2"><i class="fas fa-money-bill-wave"></i></div>
+                                <h4 class="font-semibold text-lg">Cash Discount</h4>
+                                <p class="text-gray-600 text-sm">Get 5% discount on upfront payments</p>
+                            </div>
+                            <div class="bg-white p-4 rounded-lg">
+                                <div class="text-dental-green text-3xl mb-2"><i class="fas fa-calendar-alt"></i></div>
+                                <h4 class="font-semibold text-lg">Installments</h4>
+                                <p class="text-gray-600 text-sm">Interest-free payment plans for 3-12 months</p>
+                            </div>
+                            <div class="bg-white p-4 rounded-lg">
+                                <div class="text-dental-purple text-3xl mb-2"><i class="fas fa-umbrella"></i></div>
+                                <h4 class="font-semibold text-lg">Insurance</h4>
+                                <p class="text-gray-600 text-sm">We accept all major dental insurance plans</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Factors Affecting Cost -->
+                <section class="mb-16">
+                    <h2 class="text-3xl md:text-4xl font-bold text-dental-dark mb-8 text-center section-title">Factors Affecting Dental Implant Cost</h2>
+                    <div class="grid md:grid-cols-2 gap-8">
+                        <div class="bg-white rounded-2xl p-6 shadow-lg">
+                            <div class="flex items-center mb-4">
+                                <div class="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mr-4">
+                                    <i class="fas fa-user-md text-dental-blue text-xl"></i>
+                                </div>
+                                <h3 class="text-xl font-bold">Surgeon Experience</h3>
+                            </div>
+                            <p class="text-gray-700">Our board-certified oral surgeons with 15+ years of experience ensure precision placement and long-lasting results.</p>
+                        </div>
+                        <div class="bg-white rounded-2xl p-6 shadow-lg">
+                            <div class="flex items-center mb-4">
+                                <div class="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mr-4">
+                                    <i class="fas fa-cogs text-dental-green text-xl"></i>
+                                </div>
+                                <h3 class="text-xl font-bold">Technology Used</h3>
+                            </div>
+                            <p class="text-gray-700">We use 3D CBCT scanning and guided surgery technology for perfect implant placement.</p>
+                        </div>
+                        <div class="bg-white rounded-2xl p-6 shadow-lg">
+                            <div class="flex items-center mb-4">
+                                <div class="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mr-4">
+                                    <i class="fas fa-cubes text-dental-purple text-xl"></i>
+                                </div>
+                                <h3 class="text-xl font-bold">Material Quality</h3>
+                            </div>
+                            <p class="text-gray-700">Premium titanium implants from Switzerland and Germany with ceramic crowns for natural look.</p>
+                        </div>
+                        <div class="bg-white rounded-2xl p-6 shadow-lg">
+                            <div class="flex items-center mb-4">
+                                <div class="w-12 h-12 bg-yellow-100 rounded-full flex items-center justify-center mr-4">
+                                    <i class="fas fa-teeth text-yellow-500 text-xl"></i>
+                                </div>
+                                <h3 class="text-xl font-bold">Bone Health</h3>
+                            </div>
+                            <p class="text-gray-700">Bone grafting may be required if jawbone density is insufficient, adding to the total cost.</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Why Choose Us -->
+                <section class="mb-16">
+                    <div class="bg-gradient-to-r from-dental-blue to-dental-green rounded-2xl p-8 text-white">
+                        <h2 class="text-3xl font-bold mb-6">Why Choose Shayan Dental Surgery?</h2>
+                        <div class="grid md:grid-cols-2 gap-8">
+                            <div>
+                                <div class="flex items-start mb-4">
+                                    <i class="fas fa-shield-alt text-xl mr-3 mt-1"></i>
+                                    <div>
+                                        <h3 class="text-xl font-semibold mb-2">Pain-Free Procedures</h3>
+                                        <p>Our advanced anesthesia techniques ensure you feel no discomfort during the procedure.</p>
+                                    </div>
+                                </div>
+                                <div class="flex items-start mb-4">
+                                    <i class="fas fa-certificate text-xl mr-3 mt-1"></i>
+                                    <div>
+                                        <h3 class="text-xl font-semibold mb-2">International Standards</h3>
+                                        <p>We follow European and American dental protocols for infection control and sterilization.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="flex items-start mb-4">
+                                    <i class="fas fa-globe text-xl mr-3 mt-1"></i>
+                                    <div>
+                                        <h3 class="text-xl font-semibold mb-2">Premium Materials</h3>
+                                        <p>We use only FDA-approved materials from Switzerland, Germany, and South Korea.</p>
+                                    </div>
+                                </div>
+                                <div class="flex items-start">
+                                    <i class="fas fa-clock text-xl mr-3 mt-1"></i>
+                                    <div>
+                                        <h3 class="text-xl font-semibold mb-2">Same-Day Service</h3>
+                                        <p>Get temporary teeth immediately after implant placement in most cases.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Testimonials -->
+                <section class="mb-16">
+                    <h2 class="text-3xl md:text-4xl font-bold text-dental-dark mb-8 text-center section-title">Patient Success Stories</h2>
+                    <div class="grid md:grid-cols-3 gap-8">
+                        <div class="testimonial-card p-6">
+                            <div class="flex items-center mb-4">
+                                <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80" alt="Patient" class="w-12 h-12 rounded-full object-cover">
+                                <div class="ml-4">
+                                    <h4 class="font-bold">Ayesha Khan</h4>
+                                    <div class="flex text-yellow-400">
+                                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                                    </div>
+                                </div>
+                            </div>
+                            <p class="text-gray-700 italic">"After years of hiding my smile, I got full mouth implants at Shayan Dental. The transformation is incredible! The team made me feel comfortable throughout the process."</p>
+                        </div>
+                        <div class="testimonial-card p-6">
+                            <div class="flex items-center mb-4">
+                                <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80" alt="Patient" class="w-12 h-12 rounded-full object-cover">
+                                <div class="ml-4">
+                                    <h4 class="font-bold">Ahmed Raza</h4>
+                                    <div class="flex text-yellow-400">
+                                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                                    </div>
+                                </div>
+                            </div>
+                            <p class="text-gray-700 italic">"I was worried about the cost, but their payment plans made it affordable. The single implant I got looks and feels completely natural. Best dental decision ever!"</p>
+                        </div>
+                        <div class="testimonial-card p-6">
+                            <div class="flex items-center mb-4">
+                                <img src="https://images.unsplash.com/photo-1611689103471-3dbfdc8d1d02?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80" alt="Patient" class="w-12 h-12 rounded-full object-cover">
+                                <div class="ml-4">
+                                    <h4 class="font-bold">Fatima Hassan</h4>
+                                    <div class="flex text-yellow-400">
+                                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                                    </div>
+                                </div>
+                            </div>
+                            <p class="text-gray-700 italic">"The team at Shayan Dental explained every step clearly. My multiple implants were done with such precision. I can eat anything now without worry!"</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- FAQ Section -->
+                <section class="mb-16">
+                    <h2 class="text-3xl md:text-4xl font-bold text-dental-dark mb-8 text-center section-title">Frequently Asked Questions</h2>
+                    <div class="max-w-4xl mx-auto">
+                        <div class="faq-item">
+                            <div class="faq-question">
+                                <span>How long does a dental implant procedure take?</span>
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
+                            <div class="faq-answer">
+                                <p>Typically, the entire process takes 3-6 months from consultation to final crown placement. However, with our advanced techniques, we can often provide temporary teeth on the same day as implant placement.</p>
+                            </div>
+                        </div>
+                        <div class="faq-item">
+                            <div class="faq-question">
+                                <span>Is the dental implant procedure painful?</span>
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
+                            <div class="faq-answer">
+                                <p>Most patients report minimal discomfort during the procedure thanks to our advanced anesthesia techniques. Post-surgery discomfort is typically mild and manageable with over-the-counter pain medication.</p>
+                            </div>
+                        </div>
+                        <div class="faq-item">
+                            <div class="faq-question">
+                                <span>How long do dental implants last?</span>
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
+                            <div class="faq-answer">
+                                <p>With proper care and regular dental check-ups, dental implants can last a lifetime. The crown may need replacement after 15-20 years due to normal wear and tear.</p>
+                            </div>
+                        </div>
+                        <div class="faq-item">
+                            <div class="faq-question">
+                                <span>Do you offer financing options?</span>
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
+                            <div class="faq-answer">
+                                <p>Yes, we offer flexible payment plans with 0% interest for up to 12 months. We also accept all major credit cards and work with most dental insurance providers.</p>
+                            </div>
+                        </div>
+                        <div class="faq-item">
+                            <div class="faq-question">
+                                <span>What is your success rate for dental implants?</span>
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
+                            <div class="faq-answer">
+                                <p>Our success rate is over 98%, significantly higher than the industry average. This is due to our strict sterilization protocols, premium materials, and experienced surgical team.</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Contact Form -->
+                <section class="mb-8">
+                    <div class="bg-gradient-to-r from-dental-blue/5 to-dental-green/5 rounded-2xl p-8">
+                        <div class="grid lg:grid-cols-2 gap-12 items-center">
+                            <div>
+                                <h2 class="text-3xl font-bold text-dental-dark mb-4">Book Your Free Consultation</h2>
+                                <p class="text-gray-700 mb-6">Fill out the form and our team will contact you within 24 hours to schedule your appointment.</p>
+                                <div class="flex items-center mb-4">
+                                    <div class="w-12 h-12 bg-dental-blue rounded-full flex items-center justify-center text-white mr-4">
+                                        <i class="fas fa-phone-alt"></i>
+                                    </div>
+                                    <div>
+                                        <p class="text-gray-600">Call us anytime</p>
+                                        <p class="text-xl font-bold">+92 300 1404630</p>
+                                    </div>
+                                </div>
+                                <div class="flex items-center">
+                                    <div class="w-12 h-12 bg-dental-green rounded-full flex items-center justify-center text-white mr-4">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                    </div>
+                                    <div>
+                                        <p class="text-gray-600">Visit our clinic</p>
+                                        <p class="font-medium">Shop no. 1, 592 Khayaban-e-Jinnah<br>Airline Society, Lahore</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="contact-form">
+                                <form class="space-y-4">
+                                    <div>
+                                        <input type="text" placeholder="Your Name" class="w-full px-4 py-3 rounded-lg focus:outline-none">
+                                    </div>
+                                    <div>
+                                        <input type="tel" placeholder="Phone Number" class="w-full px-4 py-3 rounded-lg focus:outline-none">
+                                    </div>
+                                    <div>
+                                        <input type="email" placeholder="Email Address" class="w-full px-4 py-3 rounded-lg focus:outline-none">
+                                    </div>
+                                    <div>
+                                        <textarea placeholder="Your Message" rows="4" class="w-full px-4 py-3 rounded-lg focus:outline-none"></textarea>
+                                    </div>
+                                    <button type="submit" class="w-full bg-gradient-to-r from-dental-blue to-dental-green text-white py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity">
+                                        Book Free Consultation
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </article>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-dental-dark text-white py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-4 gap-8">
+                <div>
+                    <div class="flex items-center space-x-3 mb-6">
+                        <div class="w-10 h-10 bg-gradient-to-r from-dental-blue to-dental-green rounded-xl flex items-center justify-center">
+                            <span class="text-white font-bold text-xl"><i class="fas fa-tooth"></i></span>
+                        </div>
+                        <h3 class="text-xl font-bold">Shayan Dental Surgery</h3>
+                    </div>
+                    <p class="text-gray-300 mb-6">Premium dental care in Lahore since 2015. Specializing in painless implants, cosmetic dentistry, and comprehensive oral health solutions.</p>
+                    <div class="flex space-x-4">
+                        <a href="#" class="w-10 h-10 bg-gray-700 rounded-full flex items-center justify-center hover:bg-dental-blue transition-colors">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a href="#" class="w-10 h-10 bg-gray-700 rounded-full flex items-center justify-center hover:bg-dental-blue transition-colors">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="#" class="w-10 h-10 bg-gray-700 rounded-full flex items-center justify-center hover:bg-dental-blue transition-colors">
+                            <i class="fab fa-youtube"></i>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-6">Quick Links</h4>
+                    <ul class="space-y-3">
+                        <li><a href="#" class="text-gray-300 hover:text-white transition-colors">Home</a></li>
+                        <li><a href="#" class="text-gray-300 hover:text-white transition-colors">About Us</a></li>
+                        <li><a href="#" class="text-gray-300 hover:text-white transition-colors">Services</a></li>
+                        <li><a href="#" class="text-gray-300 hover:text-white transition-colors">Dental Implants</a></li>
+                        <li><a href="#" class="text-gray-300 hover:text-white transition-colors">Testimonials</a></li>
+                        <li><a href="#" class="text-gray-300 hover:text-white transition-colors">Contact</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-6">Our Services</h4>
+                    <ul class="space-y-3">
+                        <li><a href="#" class="text-gray-300 hover:text-white transition-colors">Dental Implants</a></li>
+                        <li><a href="#" class="text-gray-300 hover:text-white transition-colors">Teeth Whitening</a></li>
+                        <li><a href="#" class="text-gray-300 hover:text-white transition-colors">Root Canal Treatment</a></li>
+                        <li><a href="#" class="text-gray-300 hover:text-white transition-colors">Cosmetic Dentistry</a></li>
+                        <li><a href="#" class="text-gray-300 hover:text-white transition-colors">Orthodontics</a></li>
+                        <li><a href="#" class="text-gray-300 hover:text-white transition-colors">Oral Surgery</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-6">Contact Us</h4>
+                    <ul class="space-y-4">
+                        <li class="flex items-start">
+                            <i class="fas fa-map-marker-alt text-dental-green mt-1 mr-3"></i>
+                            <span>Shop no. 1, 592 Khayaban-e-Jinnah, Airline Society, Lahore</span>
+                        </li>
+                        <li class="flex items-center">
+                            <i class="fas fa-phone-alt text-dental-green mr-3"></i>
+                            <span>+92 300 1404630</span>
+                        </li>
+                        <li class="flex items-center">
+                            <i class="fas fa-envelope text-dental-green mr-3"></i>
+                            <span>shayan08@gmail.com</span>
+                        </li>
+                        <li class="flex items-center">
+                            <i class="fas fa-clock text-dental-green mr-3"></i>
+                            <span>Mon-Sun: 9:00 AM - 9:00 PM</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="border-t border-gray-700 mt-12 pt-8 text-center text-gray-400">
+                <p>&copy; 2025 Shayan Dental Surgery. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // FAQ Accordion
+        document.querySelectorAll('.faq-question').forEach(question => {
+            question.addEventListener('click', () => {
+                const faqItem = question.parentNode;
+                faqItem.classList.toggle('active');
                 
-                <div class="service-card">
-                    <h4>Fillings & Restorations</h4>
-                    <p>Fillings and restorations are among the most common procedures performed in dental offices. Modern dentists use tooth-colored composite materials that blend seamlessly with your natural teeth, providing both functional restoration and aesthetic appeal. These materials are durable and can last many years with proper care.</p>
-                </div>
-                
-                <div class="service-card">
-                    <h4>Preventive Care</h4>
-                    <p>Preventive care extends beyond regular cleanings to include fluoride treatments, dental sealants, and patient education about proper oral hygiene techniques. Many dental clinics near Satiana Road emphasize preventive care as the most cost-effective approach to maintaining oral health.</p>
-                </div>
-            </div>
-            
-            <p>Tooth extractions, while sometimes necessary, are always considered as a last resort by quality dental professionals. When extractions are required due to severe decay, trauma, or overcrowding, experienced dentists use advanced techniques to minimize discomfort and promote faster healing.</p>
-
-            <h3>Specialized Dental Treatments</h3>
-            <p>The dental clinics in the Satiana Road area have expanded their services to include various specialized treatments that were once only available in larger cities. Orthodontics, including traditional braces and modern clear aligners, help correct misaligned teeth and improve both function and appearance. Many local practices now offer flexible payment plans to make orthodontic treatment more accessible to families.</p>
-            
-            <div class="highlight-box">
-                <p><strong>Advanced Treatments Available:</strong> Root canal therapy, once feared by patients, has become much more comfortable thanks to advanced techniques and better anesthetics. This treatment can save severely infected or damaged teeth that would otherwise require extraction, preserving your natural smile and avoiding the need for more complex replacements.</p>
-            </div>
-            
-            <p>Dental implants represent one of the most significant advances in modern dentistry. These titanium posts, surgically placed in the jawbone, provide a permanent foundation for replacement teeth that look, feel, and function like natural teeth. Several clinics near Satiana Road now offer implant services, making this premium treatment more accessible to local residents.</p>
-            
-            <p>Cosmetic dentistry has gained popularity as people become more conscious of their appearance. Services like teeth whitening, veneers, and smile makeovers can dramatically improve confidence and quality of life. Many patients are surprised to learn that cosmetic improvements often provide functional benefits as well.</p>
-            
-            <p>Pediatric dentistry deserves special mention, as establishing good oral health habits early in life sets the foundation for lifelong dental wellness. Child-friendly dental practices near Satiana Road use specialized techniques and equipment designed specifically for young patients, making dental visits positive experiences rather than sources of anxiety.</p>
-
-            <h3>Emergency Dental Services</h3>
-            <div class="emergency-alert">
-                <p><strong>Emergency Care Available:</strong> Dental emergencies can occur at any time, and having access to prompt, professional care is essential. Many dental clinics near Satiana Road offer emergency services or have arrangements with on-call dentists who can provide urgent care when needed.</p>
-            </div>
-            
-            <p>Emergency services typically include pain management for severe toothaches, treatment for dental trauma from accidents or sports injuries, and urgent care for infections that could pose serious health risks. Some practices offer 24/7 availability, while others provide emergency contact numbers for after-hours situations.</p>
-            
-            <p>Understanding what constitutes a dental emergency can help you make informed decisions about when to seek immediate care versus waiting for a regular appointment. Severe pain, significant swelling, knocked-out teeth, and broken teeth with sharp edges that could cause injury all warrant emergency attention.</p>
-        </section>
-
-        <section>
-            <h2>What to Expect During Your First Visit to a Dentist Near Satiana Road</h2>
-            
-            <h3>Initial Consultation Process</h3>
-            <p>Your first visit to a new dentist near Satiana Road will typically begin with a comprehensive consultation designed to understand your oral health history and current needs. The dental team will review your medical history, including any medications you're taking, previous dental treatments, and any specific concerns or anxieties you may have about dental care.</p>
-            
-            <p>A thorough oral examination follows, during which the dentist will assess the condition of your teeth, gums, bite, and overall oral health. This examination often includes checking for signs of decay, gum disease, oral cancer, and other potential issues that may not be causing symptoms yet.</p>
-            
-            <p>X-rays and other diagnostic procedures may be recommended during your first visit, depending on your age, risk factors, and the time since your last dental X-rays. Modern digital X-ray systems used by many Satiana Road dental clinics produce clearer images with significantly less radiation exposure than traditional film X-rays.</p>
-            
-            <p>Following the examination and diagnostics, your dentist will discuss their findings with you and develop a personalized treatment plan. This plan will prioritize any urgent needs while also addressing long-term oral health goals. Quality dental practices ensure that patients fully understand their treatment options and are comfortable with the proposed plan before moving forward.</p>
-
-            <h3>Common Procedures During First Visit</h3>
-            <ul>
-                <li><strong>Professional cleaning:</strong> Many patients can expect to receive a professional cleaning during their first visit, provided there are no urgent issues that need immediate attention. Professional cleanings remove accumulated plaque and tartar, polish teeth, and often include fluoride treatment to strengthen tooth enamel.</li>
-                <li><strong>Oral health assessment:</strong> The oral health assessment conducted during your first visit serves as a baseline for future appointments. Your dentist will document the current condition of each tooth, measure gum pocket depths to assess periodontal health, and note any areas that require monitoring or treatment.</li>
-                <li><strong>Preventive care discussion:</strong> Discussion of preventive care is a crucial component of first visits. Your dental team will provide personalized recommendations for maintaining oral health between visits, including proper brushing and flossing techniques, dietary considerations, and lifestyle factors that affect oral health.</li>
-                <li><strong>Cost estimates:</strong> Cost estimates and payment options are typically discussed during or immediately after your first visit. Reputable dental practices provide transparent pricing information and offer various payment options, including insurance processing, payment plans, and cash discounts where appropriate.</li>
-            </ul>
-        </section>
-
-        <section>
-            <h2>How to Choose the Best Dentist Near Satiana Road Faisalabad</h2>
-            
-            <h3>Key Qualifications to Look For</h3>
-            <p>When selecting a dentist near Satiana Road, educational credentials and certifications should be your first consideration. Look for dentists who have graduated from accredited dental schools and maintain current licensure with relevant Pakistani dental authorities. Many dentists also pursue additional training in specialized areas, which can be particularly valuable if you have specific dental needs.</p>
-            
-            <p>Years of experience provide valuable insight into a dentist's expertise, but don't overlook newer practitioners who may bring fresh perspectives and training in the latest techniques and technologies. The key is finding someone whose experience level matches your comfort zone and dental needs.</p>
-            
-            <p>Specialization areas become important if you require specific treatments. While general dentists can handle most routine dental needs, specialized procedures like oral surgery, orthodontics, or periodontal treatment may require practitioners with additional training and certification in these areas.</p>
-            
-            <p>Professional memberships in dental associations demonstrate a commitment to continuing education and staying current with advances in dental care. These memberships often require ongoing education and adherence to professional standards that benefit patients.</p>
-
-            <h3>Important Factors to Consider</h3>
-            <ul>
-                <li><strong>Location and accessibility:</strong> Location and accessibility from Satiana Road are practical considerations that affect your ability to maintain regular dental appointments. Choose a practice that's convenient to reach from your home or workplace, with adequate parking or public transportation access.</li>
-                <li><strong>Office hours:</strong> Office hours and appointment availability should align with your schedule. Many dental practices near Satiana Road now offer extended hours or weekend appointments to accommodate working professionals and students.</li>
-                <li><strong>Modern equipment:</strong> Modern equipment and technology can significantly improve the quality and comfort of your dental experience. Digital X-rays, intraoral cameras, laser dentistry, and computer-aided design systems represent advances that many patients find beneficial.</li>
-                <li><strong>Hygiene standards:</strong> Hygiene and sterilization standards are non-negotiable aspects of quality dental care. Observe the cleanliness of the office, ask about sterilization procedures, and ensure that staff follow proper infection control protocols.</li>
-                <li><strong>Patient reviews:</strong> Patient reviews and testimonials provide valuable insights into the experiences of others who have received care at the practice. While individual experiences may vary, patterns in reviews can help you understand what to expect.</li>
-            </ul>
-
-            <h3>Questions to Ask Your Potential Dentist</h3>
-            <p>Before committing to a dental practice, consider asking about the dentist's experience with your specific dental needs. If you require particular treatments or have unique concerns, ensure that your chosen dentist has the expertise and comfort level to address them effectively.</p>
-            
-            <p>Emergency contact procedures are important to understand before you need them. Ask how the practice handles after-hours emergencies, whether they have on-call services, and what patients should do if urgent dental issues arise outside of normal business hours.</p>
-            
-            <p>Insurance acceptance and payment plans can significantly impact the affordability of your dental care. Verify that your insurance is accepted, understand what treatments are covered, and inquire about payment options for services not covered by insurance.</p>
-        </section>
-
-        <section>
-            <h2>Best Dental Clinics Near Satiana Road Area</h2>
-            
-            <h3>Clinic Features to Evaluate</h3>
-            <p>When evaluating dental clinics near Satiana Road, modern dental equipment should be a primary consideration. Advanced equipment not only improves treatment outcomes but often makes procedures more comfortable and efficient. Look for practices that have invested in current technology and regularly update their equipment.</p>
-            
-            <div class="highlight-box">
-                <p><strong>Technology to Look For:</strong> Digital X-ray systems are now standard in quality dental practices. These systems provide clearer images, reduce radiation exposure, and allow for immediate viewing and sharing of results. The ability to see X-rays immediately during your appointment can improve communication and treatment planning.</p>
-            </div>
-            
-            <p>Comfortable waiting areas may seem like a minor consideration, but they reflect the practice's attention to patient experience. A clean, comfortable environment with amenities like Wi-Fi, reading materials, and refreshments can make your visits more pleasant.</p>
-            
-            <p>Parking availability is a practical concern, especially in busy areas like Satiana Road. Adequate parking reduces stress and ensures that you can arrive on time for appointments without worrying about finding a parking space.</p>
-            
-            <p>Public transport accessibility benefits patients who don't drive or prefer alternative transportation options. Dental clinics located near bus routes or other public transportation options serve a broader range of patients and demonstrate consideration for diverse transportation needs.</p>
-
-            <h3>Services Comparison</h3>
-            <p>The range of treatments offered varies significantly among dental practices. Some focus primarily on general dentistry, while others provide comprehensive services including specialized treatments. Consider your current and potential future dental needs when evaluating service offerings.</p>
-            
-            <p>Pricing transparency is essential for making informed decisions about dental care. Quality practices provide clear information about treatment costs, payment options, and insurance coverage. Be wary of practices that are reluctant to discuss pricing or provide written estimates.</p>
-            
-            <p>Appointment scheduling flexibility can greatly impact your ability to maintain consistent dental care. Look for practices that offer online scheduling, flexible appointment times, and reasonable availability for routine and urgent care appointments.</p>
-            
-            <p>Multilingual staff availability is particularly valuable in diverse communities like Faisalabad. Staff who can communicate effectively in your preferred language can improve understanding, comfort, and overall satisfaction with your dental care experience.</p>
-        </section>
-
-        <section>
-            <h2>Preparing for Your Dental Appointment Near Satiana Road</h2>
-            
-            <h3>Before Your Visit</h3>
-            <p>Insurance verification should be completed before your appointment to avoid surprises and delays. Contact your insurance provider or ask the dental office to verify your coverage, understand your benefits, and clarify any limitations or requirements for the treatments you may need.</p>
-            
-            <p>Medical history preparation involves gathering information about your overall health, medications, previous dental treatments, and any specific concerns you want to discuss. Having this information organized and readily available helps ensure that your appointment time is used efficiently.</p>
-            
-            <p>Creating a list of current medications, including prescription drugs, over-the-counter medications, and supplements, is important because some medications can affect dental treatments or interact with medications that might be prescribed by your dentist.</p>
-            
-            <p>Identifying specific concerns to discuss helps ensure that all your questions and issues are addressed during your appointment. Write down any symptoms you've experienced, concerns about your oral health, or questions about treatments you may need.</p>
-
-            <h3>What to Bring</h3>
-            <ul>
-                <li><strong>Valid identification:</strong> Valid identification is typically required for new patients and may be requested for verification purposes at established practices. Bring a government-issued photo ID such as a national identity card or passport.</li>
-                <li><strong>Insurance cards:</strong> Insurance cards, if you have dental insurance, should be brought to every appointment. Even if the office has your insurance information on file, bringing your current cards ensures that they have the most up-to-date information.</li>
-                <li><strong>Previous dental records:</strong> Previous dental records, including X-rays, treatment history, and records from other dental practices, can provide valuable information for your new dentist.</li>
-                <li><strong>Payment information:</strong> Payment method information should be prepared based on `,
-  2: `
-
-   <!DOCTYPE html>
+                // Close other open FAQs
+                document.querySelectorAll('.faq-item').forEach(item => {
+                    if (item !== faqItem && item.classList.contains('active')) {
+                        item.classList.remove('active');
+                    }
+                });
+            });
+        });
+        
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>`
+,
+2: `<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Braces Price in Faisalabad 2025: Complete Cost Guide & Best Clinics</title>
-    <meta name="description" content="Complete guide to braces cost in Faisalabad 2025. Compare metal, ceramic & invisible aligner prices (PKR 80,000-500,000). Find best orthodontists, payment plans & expert reviews.">
-    <meta name="keywords" content="braces price faisalabad, orthodontist faisalabad cost, dental braces pakistan, invisalign price faisalabad, cheap braces faisalabad">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            line-height: 1.6;
-            color: #2d3748;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 20px auto;
-            background: white;
-            border-radius: 20px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.1);
-            overflow: hidden;
-        }
-        
-        .hero-section {
-            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
-            color: white;
-            padding: 60px 40px;
-            text-align: center;
-            position: relative;
-            overflow: hidden;
-        }
-        
-        .hero-section::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="20" cy="20" r="2" fill="white" opacity="0.1"/><circle cx="80" cy="30" r="1.5" fill="white" opacity="0.15"/><circle cx="60" cy="70" r="1" fill="white" opacity="0.1"/><circle cx="30" cy="80" r="1.5" fill="white" opacity="0.12"/></svg>') repeat;
-        }
-        
-        .hero-section h1 {
-            font-size: 3.5em;
-            font-weight: 800;
-            margin-bottom: 20px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-            position: relative;
-            z-index: 1;
-        }
-        
-        .hero-subtitle {
-            font-size: 1.4em;
-            opacity: 0.9;
-            max-width: 800px;
-            margin: 0 auto 30px;
-            position: relative;
-            z-index: 1;
-        }
-        
-        .quick-price-banner {
-            background: rgba(255,255,255,0.15);
-            backdrop-filter: blur(10px);
-            border-radius: 15px;
-            padding: 25px;
-            margin-top: 30px;
-            border: 1px solid rgba(255,255,255,0.2);
-            position: relative;
-            z-index: 1;
-        }
-        
-        .quick-price-banner h3 {
-            font-size: 1.3em;
-            margin-bottom: 15px;
-        }
-        
-        .price-highlights {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-        }
-        
-        .price-highlight {
-            background: rgba(255,255,255,0.1);
-            border-radius: 10px;
-            padding: 15px;
-            text-align: center;
-        }
-        
-        .price-highlight strong {
-            display: block;
-            font-size: 1.1em;
-            margin-bottom: 5px;
-        }
-        
-        .content {
-            padding: 50px 40px;
-        }
-        
-        .breadcrumb {
-            background: #f8f9fa;
-            padding: 15px 30px;
-            border-radius: 10px;
-            margin-bottom: 30px;
-            font-size: 0.9em;
-        }
-        
-        .breadcrumb a {
-            color: #1e3c72;
-            text-decoration: none;
-        }
-        
-        .breadcrumb a:hover {
-            text-decoration: underline;
-        }
-        
-        .toc {
-            background: linear-gradient(135deg, #e8f4fd 0%, #d1ecf1 100%);
-            border-left: 5px solid #1e3c72;
-            border-radius: 15px;
-            padding: 30px;
-            margin-bottom: 40px;
-        }
-        
-        .toc h2 {
-            color: #1e3c72;
-            margin-bottom: 20px;
-            font-size: 1.5em;
-        }
-        
-        .toc-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-        }
-        
-        .toc-column ul {
-            list-style: none;
-        }
-        
-        .toc-column li {
-            margin-bottom: 10px;
-            padding-left: 20px;
-            position: relative;
-        }
-        
-        .toc-column li::before {
-            content: '📋';
-            position: absolute;
-            left: 0;
-        }
-        
-        .toc-column a {
-            color: #2d3748;
-            text-decoration: none;
-            transition: color 0.3s ease;
-        }
-        
-        .toc-column a:hover {
-            color: #1e3c72;
-            text-decoration: underline;
-        }
-        
-        .alert-box {
-            background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
-            border: 2px solid #f39c12;
-            border-radius: 15px;
-            padding: 25px;
-            margin: 30px 0;
-            position: relative;
-        }
-        
-        .alert-box::before {
-            content: '💡';
-            position: absolute;
-            top: -15px;
-            left: 20px;
-            background: white;
-            padding: 5px 10px;
-            border-radius: 50%;
-            font-size: 1.2em;
-        }
-        
-        .alert-box h3 {
-            color: #d68910;
-            margin-bottom: 15px;
-            font-size: 1.3em;
-        }
-        
-        h2 {
-            color: #1e3c72;
-            font-size: 2.3em;
-            margin: 50px 0 25px;
-            padding-bottom: 15px;
-            border-bottom: 3px solid #1e3c72;
-            position: relative;
-        }
-        
-        h2::after {
-            content: '';
-            position: absolute;
-            bottom: -3px;
-            left: 0;
-            width: 60px;
-            height: 3px;
-            background: linear-gradient(90deg, #667eea, #764ba2);
-        }
-        
-        h3 {
-            color: #2d3748;
-            font-size: 1.7em;
-            margin: 35px 0 20px;
-            padding: 15px 0 15px 25px;
-            background: linear-gradient(90deg, #f8f9fa 0%, transparent 100%);
-            border-left: 4px solid #1e3c72;
-            border-radius: 0 10px 10px 0;
-        }
-        
-        p {
-            margin-bottom: 20px;
-            font-size: 1.1em;
-            text-align: justify;
-        }
-        
-        .price-comparison-table {
-            background: white;
-            border-radius: 20px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-            margin: 40px 0;
-        }
-        
-        .price-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 30px;
-            margin: 40px 0;
-        }
-        
-        .price-card {
-            background: linear-gradient(135deg, #ffffff 0%, #f8f9ff 100%);
-            border: 2px solid #e2e8f0;
-            border-radius: 20px;
-            padding: 30px;
-            text-align: center;
-            position: relative;
-            transition: all 0.3s ease;
-            overflow: hidden;
-        }
-        
-        .price-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 5px;
-            background: linear-gradient(90deg, #667eea, #764ba2);
-        }
-        
-        .price-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 20px 40px rgba(0,0,0,0.15);
-            border-color: #1e3c72;
-        }
-        
-        .price-card.featured {
-            border-color: #f39c12;
-            transform: scale(1.05);
-        }
-        
-        .price-card.featured::before {
-            background: linear-gradient(90deg, #f39c12, #e67e22);
-        }
-        
-        .price-card.featured .badge {
-            background: #f39c12;
-            color: white;
-            padding: 8px 20px;
-            border-radius: 25px;
-            font-weight: bold;
-            font-size: 0.9em;
-            position: absolute;
-            top: -10px;
-            right: 20px;
-        }
-        
-        .price-card h3 {
-            background: none;
-            border: none;
-            padding: 0;
-            margin-bottom: 20px;
-            font-size: 1.8em;
-            color: #1e3c72;
-        }
-        
-        .price-range {
-            font-size: 1.4em;
-            font-weight: bold;
-            color: #2d3748;
-            margin: 15px 0;
-        }
-        
-        .price-range.primary {
-            font-size: 2em;
-            color: #1e3c72;
-        }
-        
-        .duration {
-            background: #e8f4fd;
-            color: #1e3c72;
-            padding: 10px 15px;
-            border-radius: 25px;
-            font-weight: 600;
-            margin: 15px 0;
-            display: inline-block;
-        }
-        
-        .features-list {
-            text-align: left;
-            margin-top: 20px;
-        }
-        
-        .features-list li {
-            margin-bottom: 10px;
-            padding-left: 25px;
-            position: relative;
-        }
-        
-        .features-list li::before {
-            content: '✓';
-            position: absolute;
-            left: 0;
-            color: #28a745;
-            font-weight: bold;
-        }
-        
-        .comparison-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 30px 0;
-            background: white;
-            border-radius: 15px;
-            overflow: hidden;
-            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
-        }
-        
-        .comparison-table th {
-            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
-            color: white;
-            padding: 20px 15px;
-            text-align: left;
-            font-weight: 600;
-            font-size: 1.1em;
-        }
-        
-        .comparison-table td {
-            padding: 18px 15px;
-            border-bottom: 1px solid #e2e8f0;
-        }
-        
-        .comparison-table tr:hover td {
-            background-color: #f8f9ff;
-        }
-        
-        .comparison-table .savings {
-            color: #28a745;
-            font-weight: bold;
-        }
-        
-        .factors-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 25px;
-            margin: 40px 0;
-        }
-        
-        .factor-card {
-            background: white;
-            border: 2px solid #e2e8f0;
-            border-radius: 15px;
-            padding: 25px;
-            transition: all 0.3s ease;
-        }
-        
-        .factor-card:hover {
-            border-color: #1e3c72;
-            transform: translateY(-5px);
-            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
-        }
-        
-        .factor-card h4 {
-            color: #1e3c72;
-            font-size: 1.3em;
-            margin-bottom: 15px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-        
-        .factor-icon {
-            font-size: 1.5em;
-        }
-        
-        .benefits-section {
-            background: linear-gradient(135deg, #f0f8ff 0%, #e6f3ff 100%);
-            border-radius: 20px;
-            padding: 40px;
-            margin: 40px 0;
-        }
-        
-        .benefits-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 25px;
-            margin-top: 30px;
-        }
-        
-        .benefit-card {
-            background: white;
-            border-radius: 15px;
-            padding: 25px;
-            text-align: center;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
-            transition: transform 0.3s ease;
-        }
-        
-        .benefit-card:hover {
-            transform: translateY(-5px);
-        }
-        
-        .benefit-icon {
-            font-size: 3em;
-            margin-bottom: 15px;
-            display: block;
-        }
-        
-        .benefit-card h4 {
-            color: #1e3c72;
-            font-size: 1.2em;
-            margin-bottom: 15px;
-        }
-        
-        .faq-section {
-            margin: 50px 0;
-        }
-        
-        .faq-item {
-            background: white;
-            border: 2px solid #e2e8f0;
-            border-radius: 15px;
-            margin-bottom: 20px;
-            overflow: hidden;
-            transition: all 0.3s ease;
-        }
-        
-        .faq-item:hover {
-            border-color: #1e3c72;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-        }
-        
-        .faq-question {
-            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-            padding: 25px;
-            font-weight: bold;
-            color: #1e3c72;
-            font-size: 1.2em;
-            cursor: pointer;
-            position: relative;
-            margin: 0 !important;
-        }
-        
-        .faq-question::after {
-            content: '+';
-            position: absolute;
-            right: 25px;
-            top: 50%;
-            transform: translateY(-50%);
-            font-size: 1.8em;
-            color: #1e3c72;
-            transition: transform 0.3s ease;
-        }
-        
-        .faq-question:hover::after {
-            transform: translateY(-50%) rotate(45deg);
-        }
-        
-        .faq-answer {
-            padding: 25px;
-            background: white;
-            margin: 0 !important;
-        }
-        
-        .clinic-selection-guide {
-            background: linear-gradient(135deg, #fff5f5 0%, #fed7d7 20%, #fff5f5 100%);
-            border-radius: 20px;
-            padding: 40px;
-            margin: 40px 0;
-            border: 2px solid #fc8181;
-        }
-        
-        .selection-criteria {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin-top: 30px;
-        }
-        
-        .criteria-item {
-            background: white;
-            border-radius: 12px;
-            padding: 20px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-        }
-        
-        .criteria-item h4 {
-            color: #c53030;
-            margin-bottom: 10px;
-            font-size: 1.1em;
-        }
-        
-        .cta-section {
-            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
-            color: white;
-            padding: 60px 40px;
-            text-align: center;
-            border-radius: 20px;
-            margin: 50px 0;
-            position: relative;
-            overflow: hidden;
-        }
-        
-        .cta-section::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
-            animation: pulse 4s ease-in-out infinite;
-        }
-        
-        @keyframes pulse {
-            0%, 100% { opacity: 0.3; }
-            50% { opacity: 0.7; }
-        }
-        
-        .cta-section h2 {
-            color: white;
-            border-bottom: 3px solid rgba(255,255,255,0.3);
-            margin-bottom: 30px;
-        }
-        
-        .cta-buttons {
-            margin-top: 30px;
-        }
-        
-        .cta-button {
-            background: white;
-            color: #1e3c72;
-            padding: 15px 35px;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 1.2em;
-            display: inline-block;
-            margin: 10px;
-            transition: all 0.3s ease;
-            position: relative;
-            z-index: 1;
-        }
-        
-        .cta-button:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-            background: #f8f9fa;
-        }
-        
-        .cta-button.secondary {
-            background: transparent;
-            color: white;
-            border: 2px solid white;
-        }
-        
-        .cta-button.secondary:hover {
-            background: white;
-            color: #1e3c72;
-        }
-        
-        .stats-section {
-            background: #f8f9fa;
-            padding: 40px;
-            border-radius: 20px;
-            margin: 40px 0;
-            text-align: center;
-        }
-        
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 30px;
-            margin-top: 30px;
-        }
-        
-        .stat-item {
-            background: white;
-            padding: 25px;
-            border-radius: 15px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
-        }
-        
-        .stat-number {
-            font-size: 2.5em;
-            font-weight: bold;
-            color: #1e3c72;
-            display: block;
-        }
-        
-        .stat-label {
-            color: #6c757d;
-            font-size: 0.9em;
-            margin-top: 10px;
-        }
-        
-        @media (max-width: 768px) {
-            .hero-section {
-                padding: 40px 20px;
-            }
-            
-            .hero-section h1 {
-                font-size: 2.5em;
-            }
-            
-            .content {
-                padding: 30px 20px;
-            }
-            
-            .price-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .price-card.featured {
-                transform: none;
-            }
-            
-            .toc-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .comparison-table {
-                font-size: 0.9em;
-            }
-            
-            .comparison-table th,
-            .comparison-table td {
-                padding: 12px 8px;
+    <title>Best Dentists in Lahore: Expert Dental Care in 2025 | Shayan Dental Surgery</title>
+    <meta name="description" content="Discover the top-rated dental clinics in Lahore for 2025. Featuring Shayan Dental Surgery and other premier providers for implants, braces, root canals, and cosmetic dentistry.">
+    <meta name="keywords" content="best dentists lahore, dental clinic lahore, shayan dental surgery, dental implants lahore, root canal treatment, teeth whitening, orthodontics lahore">
+    <meta name="author" content="Dental Care Guide">
+    
+    <!-- Open Graph / Social Media Meta Tags -->
+    <meta property="og:title" content="Best Dentists in Lahore: Expert Dental Care in 2025">
+    <meta property="og:description" content="Find top-rated dental clinics in Lahore including Shayan Dental Surgery. Quality care for implants, braces, root canals and cosmetic dentistry.">
+    <meta property="og:type" content="website">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom Styles -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#0ea5e9',
+                        secondary: '#0891b2',
+                        accent: '#06b6d4'
+                    }
+                }
             }
         }
-    </style>
+    </script>
 </head>
-<body>
-    <div class="container">
-        <div class="hero-section">
-            <h1>Braces Price in Faisalabad 2025</h1>
-            <p class="hero-subtitle">Complete Cost Guide, Best Orthodontists & Payment Options for Metal, Ceramic & Invisible Aligners</p>
-            
-            <div class="quick-price-banner">
-                <h3>🔥 Quick Price Overview</h3>
-                <div class="price-highlights">
-                    <div class="price-highlight">
-                        <strong>Metal Braces</strong>
-                        PKR 80,000 - 250,000
-                    </div>
-                    <div class="price-highlight">
-                        <strong>Ceramic Braces</strong>
-                        PKR 120,000 - 300,000
-                    </div>
-                    <div class="price-highlight">
-                        <strong>Invisible Aligners</strong>
-                        PKR 180,000 - 500,000
-                    </div>
-                </div>
+<body class="bg-gray-50 font-sans">
+    <!-- Header -->
+    <header class="bg-gradient-to-r from-primary to-secondary text-black">
+        <div class="container mx-auto px-4 py-12">
+            <div class="max-w-3xl mx-auto text-center">
+                <h1 class="text-4xl md:text-5xl font-bold mb-4">Best Dentists in Lahore: Where to Go for Expert Dental Care in 2025</h1>
+                <p class="text-xl opacity-90">Discover Lahore's top-rated dental clinics for quality, affordable treatments</p>
             </div>
         </div>
-        
-        <div class="content">
-            <div class="breadcrumb">
-                <a href="#home">Home</a> > <a href="#dental-guides">Dental Guides</a> > <strong>Braces Price Faisalabad 2025</strong>
-            </div>
+    </header>
 
-            <div class="alert-box">
-                <h3>💰 Save Up to PKR 70,000 Compared to Lahore & Karachi!</h3>
-                <p><strong>Faisalabad offers 20-35% lower orthodontic treatment costs</strong> while maintaining the same quality standards as major cities. This comprehensive guide helps you find the best orthodontist at the right price for your budget.</p>
-            </div>
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-12 max-w-6xl">
+        <!-- Introduction -->
+        <section class="mb-16">
+            <p class="text-lg text-gray-700 mb-6 leading-relaxed">
+                Lahore, the vibrant heart of Pakistan, is not just known for its rich culture and food scene, but also for offering top-tier medical services—including dental care. If you're searching for the best dentists in Lahore, you're in the right place. Whether it's a simple tooth cleaning, braces, root canal, or cosmetic dentistry, Lahore has a range of clinics offering high-quality, affordable dental treatments.
+            </p>
+            <p class="text-lg text-gray-700 leading-relaxed">
+                But with so many options, how do you know which dental clinic truly stands out? This blog breaks down what to look for in a dentist and highlights some of the most trusted dental clinics in Lahore—including a special spotlight on Shayan Dental Surgery, a growing favorite among locals.
+            </p>
+        </section>
 
-            <div class="toc">
-                <h2>📖 Complete Guide Contents</h2>
-                <div class="toc-grid">
-                    <div class="toc-column">
-                        <ul>
-                            <li><a href="#pricing-overview">2025 Pricing Overview</a></li>
-                            <li><a href="#types-comparison">Types & Cost Comparison</a></li>
-                            <li><a href="#factors-affecting-cost">Cost Factors Analysis</a></li>
-                            <li><a href="#city-comparison">Faisalabad vs Other Cities</a></li>
-                        </ul>
+        <!-- What Makes a Dentist "The Best" -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">What Makes a Dentist "The Best"?</h2>
+            <p class="text-lg text-gray-700 mb-6">
+                When looking for a dental clinic in Lahore, there are a few non-negotiables you should look out for:
+            </p>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div class="bg-white p-6 rounded-xl shadow-md border-l-4 border-primary">
+                    <div class="flex items-center mb-4">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-graduation-cap text-primary text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Qualified and experienced dentists</h3>
                     </div>
-                    <div class="toc-column">
-                        <ul>
-                            <li><a href="#clinic-selection">How to Choose Orthodontist</a></li>
-                            <li><a href="#financing-options">Payment Plans & Financing</a></li>
-                            <li><a href="#benefits">Benefits of Treatment</a></li>
-                            <li><a href="#faq">Common Questions</a></li>
-                        </ul>
-                    </div>
+                    <p class="text-gray-600">Board-certified professionals with years of hands-on experience in diverse dental procedures.</p>
                 </div>
-            </div>
-
-            <section id="pricing-overview">
-                <h2>💰 Braces Price in Faisalabad: 2025 Complete Breakdown</h2>
                 
-                <p>The orthodontic treatment landscape in Faisalabad has evolved significantly, offering world-class treatment options at competitive prices. Our comprehensive market analysis of 15+ clinics reveals current pricing trends and helps you budget effectively for your orthodontic journey.</p>
-
-                <div class="stats-section">
-                    <h3>📊 Market Statistics</h3>
-                    <div class="stats-grid">
-                        <div class="stat-item">
-                            <span class="stat-number">25+</span>
-                            <div class="stat-label">Qualified Orthodontists</div>
+                <div class="bg-white p-6 rounded-xl shadow-md border-l-4 border-primary">
+                    <div class="flex items-center mb-4">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-microscope text-primary text-xl"></i>
                         </div>
-                        <div class="stat-item">
-                            <span class="stat-number">30%</span>
-                            <div class="stat-label">Cost Savings vs Major Cities</div>
-                        </div>
-                        <div class="stat-item">
-                            <span class="stat-number">18-30</span>
-                            <div class="stat-label">Average Treatment Months</div>
-                        </div>
-                        <div class="stat-item">
-                            <span class="stat-number">95%</span>
-                            <div class="stat-label">Patient Satisfaction Rate</div>
-                        </div>
+                        <h3 class="text-xl font-semibold">Up-to-date equipment</h3>
                     </div>
+                    <p class="text-gray-600">Modern technology with strict sterilization protocols for safe and effective treatments.</p>
                 </div>
-
-                <div class="price-grid">
-                    <div class="price-card">
-                        <h3>🔩 Metal Braces</h3>
-                        <div class="price-range primary">PKR 80,000 - 250,000</div>
-                        <div class="duration">⏱️ 18-24 months</div>
-                        
-                        <div class="features-list">
-                            <h4>What's Included:</h4>
-                            <ul>
-                                <li>Initial consultation & X-rays</li>
-                                <li>High-grade stainless steel brackets</li>
-                                <li>Monthly adjustment appointments</li>
-                                <li>Emergency visits included</li>
-                                <li>Retainers after treatment</li>
-                                <li>6-month follow-up care</li>
-                            </ul>
-                        </div>
-                        
-                        <p><strong>Best For:</strong> Teenagers, complex cases, budget-conscious patients seeking maximum effectiveness.</p>
-                    </div>
-
-                    <div class="price-card featured">
-                        <div class="badge">Most Popular</div>
-                        <h3>🦷 Ceramic Braces</h3>
-                        <div class="price-range primary">PKR 120,000 - 300,000</div>
-                        <div class="duration">⏱️ 18-30 months</div>
-                        
-                        <div class="features-list">
-                            <h4>Premium Features:</h4>
-                            <ul>
-                                <li>Tooth-colored ceramic brackets</li>
-                                <li>Less visible than metal braces</li>
-                                <li>Same effectiveness as metal</li>
-                                <li>Comfortable smooth edges</li>
-                                <li>Professional appearance</li>
-                                <li>Extended warranty coverage</li>
-                            </ul>
-                        </div>
-                        
-                        <p><strong>Best For:</strong> Adults, professionals, image-conscious patients wanting discretion with effectiveness.</p>
-                    </div>
-
-                    <div class="price-card">
-                        <h3>👤 Invisible Aligners</h3>
-                        <div class="price-range primary">PKR 180,000 - 500,000</div>
-                        <div class="duration">⏱️ 12-24 months</div>
-                        
-                        <div class="features-list">
-                            <h4>Premium Treatment:</h4>
-                            <ul>
-                                <li>Completely invisible design</li>
-                                <li>Removable for eating & cleaning</li>
-                                <li>3D treatment planning</li>
-                                <li>Bi-weekly aligner changes</li>
-                                <li>Virtual monitoring options</li>
-                                <li>Lifetime retainer guarantee</li>
-                            </ul>
-                        </div>
-                        
-                        <p><strong>Best For:</strong> Executives, public speakers, mild-moderate cases, maximum aesthetic appeal.</p>
-                    </div>
-                </div>
-            </section>
-
-            <section id="city-comparison">
-                <h2>🏙️ Faisalabad vs Major Cities: Cost Comparison</h2>
                 
-                <p>Faisalabad's competitive healthcare market offers significant savings compared to Pakistan's major metropolitan areas, without compromising on treatment quality or technology.</p>
+                <div class="bg-white p-6 rounded-xl shadow-md border-l-4 border-primary">
+                    <div class="flex items-center mb-4">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-money-bill-wave text-primary text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Transparent pricing</h3>
+                    </div>
+                    <p class="text-gray-600">Clear cost breakdown with no hidden fees or unnecessary treatments.</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md border-l-4 border-primary">
+                    <div class="flex items-center mb-4">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-star text-primary text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Positive reviews</h3>
+                    </div>
+                    <p class="text-gray-600">Consistent high ratings and recommendations from satisfied patients.</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md border-l-4 border-primary">
+                    <div class="flex items-center mb-4">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-wheelchair text-primary text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Accessibility</h3>
+                    </div>
+                    <p class="text-gray-600">Convenient locations with comfortable, patient-friendly environments.</p>
+                </div>
+            </div>
+        </section>
 
-                <table class="comparison-table">
-                    <thead>
-                        <tr>
-                            <th>City</th>
-                            <th>Metal Braces Range</th>
-                            <th>Ceramic Braces Range</th>
-                            <th>Invisible Aligners Range</th>
-                            <th>Savings in Faisalabad</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td><strong>Faisalabad</strong></td>
-                            <td>PKR 80,000 - 250,000</td>
-                            <td>PKR 120,000 - 300,000</td>
-                            <td>PKR 180,000 - 500,000</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>Lahore</td>
-                            <td>PKR 100,000 - 300,000</td>
-                            <td>PKR 150,000 - 380,000</td>
-                            <td>PKR 220,000 - 600,000</td>
-                            <td class="savings">Save PKR 20,000-50,000</td>
-                        </tr>
-                        <tr>
-                            <td>Karachi</td>
-                            <td>PKR 120,000 - 350,000</td>
-                            <td>PKR 180,000 - 420,000</td>
-                            <td>PKR 250,000 - 650,000</td></tbody>
-`,
+        <!-- Top Dental Clinics -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-8">Lahore's Top-Rated Dental Clinics</h2>
+            
+            <!-- Shayan Dental Surgery - Featured -->
+            <div class="bg-gradient-to-br from-blue-50 to-cyan-50 rounded-2xl overflow-hidden shadow-xl mb-12 border-2 border-primary">
+                <div class="p-8">
+                    <div class="flex flex-col md:flex-row items-start">
+                        <div class="md:w-2/3 mb-6 md:mb-0 md:pr-8">
+                            <div class="flex items-center mb-4">
+                                <span class="bg-primary text-white px-3 py-1 rounded-full text-sm font-semibold mr-4">TOP CHOICE</span>
+                                <h3 class="text-2xl font-bold text-gray-800">1. Shayan Dental Surgery – Airline Society, Lahore</h3>
+                            </div>
+                            
+                            <div class="flex items-center mb-3">
+                                <i class="fas fa-map-marker-alt text-primary mr-2"></i>
+                                <p class="text-gray-700">Shop no. 1, 592 Khayaban-e-Jinnah, Airline Society, Lahore, 54000</p>
+                            </div>
+                            
+                            <div class="flex items-center mb-4">
+                                <i class="fas fa-phone text-primary mr-2"></i>
+                                <p class="text-gray-700 font-medium">+92 300 1404630</p>
+                            </div>
+                            
+                            <p class="text-gray-700 mb-4 leading-relaxed">
+                                One of the rising stars in Lahore's dental scene, Shayan Dental Surgery has quickly earned a reputation for personalized and ethical dental care. Whether you're visiting for a regular check-up, dental implants, braces, or teeth whitening, the clinic offers modern procedures in a calm, hygienic environment.
+                            </p>
+                            
+                            <h4 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Why Shayan Dental Surgery Stands Out:</h4>
+                            <ul class="list-disc pl-5 space-y-2 text-gray-700">
+                                <li>Led by highly skilled professionals committed to patient satisfaction</li>
+                                <li>Latest technology in root canal, scaling, implants, and smile makeovers</li>
+                                <li>Affordable pricing and honest diagnosis—no upselling unnecessary treatments</li>
+                                <li>Excellent Google reviews and local community trust</li>
+                            </ul>
+                            
+                            <p class="mt-6 text-lg font-medium text-gray-800">
+                                If you're looking for a caring, professional, and highly rated dentist in Lahore, Shayan Dental Surgery should be at the top of your list.
+                            </p>
+                        </div>
+                        
+                        <div class="md:w-1/3 bg-white p-6 rounded-lg shadow-md">
+                            <h4 class="text-xl font-bold text-center mb-4 text-primary">Services Offered</h4>
+                            <ul class="space-y-3">
+                                <li class="flex items-center">
+                                    <i class="fas fa-tooth text-primary mr-3"></i>
+                                    <span>Dental Implants</span>
+                                </li>
+                                <li class="flex items-center">
+                                    <i class="fas fa-teeth text-primary mr-3"></i>
+                                    <span>Root Canal Therapy</span>
+                                </li>
+                                <li class="flex items-center">
+                                    <i class="fas fa-smile text-primary mr-3"></i>
+                                    <span>Teeth Whitening</span>
+                                </li>
+                                <li class="flex items-center">
+                                    <i class="fas fa-braille text-primary mr-3"></i>
+                                    <span>Orthodontics (Braces)</span>
+                                </li>
+                                <li class="flex items-center">
+                                    <i class="fas fa-spa text-primary mr-3"></i>
+                                    <span>Scaling and Polishing</span>
+                                </li>
+                                <li class="flex items-center">
+                                    <i class="fas fa-laugh-beam text-primary mr-3"></i>
+                                    <span>Smile Designing</span>
+                                </li>
+                                <li class="flex items-center">
+                                    <i class="fas fa-teeth-open text-primary mr-3"></i>
+                                    <span>Tooth Extraction</span>
+                                </li>
+                                <li class="flex items-center">
+                                    <i class="fas fa-child text-primary mr-3"></i>
+                                    <span>Pediatric Dentistry</span>
+                                </li>
+                            </ul>
+                            
+                            <div class="mt-6 p-4 bg-blue-50 rounded-lg">
+                                <p class="text-center font-semibold text-primary">Conveniently located for:</p>
+                                <div class="flex flex-wrap justify-center mt-2">
+                                    <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm m-1">Airline Society</span>
+                                    <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm m-1">Johar Town</span>
+                                    <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm m-1">Wapda Town</span>
+                                    <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm m-1">Khayaban-e-Jinnah</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Other Clinics -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- Dental Experts -->
+                <div class="bg-white p-6 rounded-xl shadow-md border border-gray-200">
+                    <h3 class="text-xl font-bold text-gray-800 mb-4">2. Dental Experts – Johar Town</h3>
+                    <p class="text-gray-700 mb-4">
+                        Located in Johar Town, Dental Experts is one of the more established clinics in Lahore offering a wide range of services, including cosmetic dentistry, braces, and pediatric dentistry. The clinic is well known for its digital smile design and quality orthodontics.
+                    </p>
+                    <div class="flex items-center">
+                        <i class="fas fa-star text-yellow-400 mr-1"></i>
+                        <span class="text-gray-700 font-medium">4.7/5 (Google Reviews)</span>
+                    </div>
+                </div>
+                
+                <!-- Dental Square -->
+                <div class="bg-white p-6 rounded-xl shadow-md border border-gray-200">
+                    <h3 class="text-xl font-bold text-gray-800 mb-4">3. Dental Square – DHA Phase 5</h3>
+                    <p class="text-gray-700 mb-4">
+                        Another favorite in Lahore is Dental Square, based in DHA Phase 5. They provide advanced dental procedures like laser dentistry and Invisalign. Their ambiance and high-end equipment give them a premium edge. Ideal for those seeking high-tech treatments in a comfortable setup.
+                    </p>
+                    <div class="flex items-center">
+                        <i class="fas fa-star text-yellow-400 mr-1"></i>
+                        <span class="text-gray-700 font-medium">4.8/5 (Google Reviews)</span>
+                    </div>
+                </div>
+                
+                <!-- Smile Hub -->
+                <div class="bg-white p-6 rounded-xl shadow-md border border-gray-200 md:col-span-2">
+                    <h3 class="text-xl font-bold text-gray-800 mb-4">4. Smile Hub – Gulberg</h3>
+                    <p class="text-gray-700 mb-4">
+                        For those in central Lahore, Smile Hub in Gulberg is a solid choice. Their team includes experienced prosthodontists and oral surgeons, and they often deal with international patients. They also provide flexible appointment slots, making it ideal for working professionals.
+                    </p>
+                    <div class="flex items-center">
+                        <i class="fas fa-star text-yellow-400 mr-1"></i>
+                        <span class="text-gray-700 font-medium">4.6/5 (Google Reviews)</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Why Choose Shayan -->
+        <section class="mb-16 bg-gradient-to-r from-blue-50 to-cyan-50 rounded-2xl p-8">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Why People Choose Shayan Dental Surgery Over Others</h2>
+            <p class="text-lg text-gray-700 mb-6 leading-relaxed">
+                While many clinics provide excellent care, Shayan Dental Surgery offers a rare combination of affordability, trust, and expertise. What sets it apart is how the team treats every patient like family. There's no rush, no hidden costs, and no pressure—just honest advice and effective treatment.
+            </p>
+            <p class="text-lg text-gray-700 leading-relaxed">
+                From children with cavities to adults needing root canals or implants, this clinic has become a go-to dentist in Airline Society, Lahore. If you're based in or around Johar Town, Wapda Town, or Khayaban-e-Jinnah, the clinic is conveniently located and easy to access.
+            </p>
+        </section>
+
+        <!-- Tips Section -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Tips for Choosing the Right Dentist in Lahore</h2>
+            <p class="text-lg text-gray-700 mb-8">
+                Still unsure about which dentist to go to? Here are a few quick tips:
+            </p>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div class="flex items-start">
+                    <div class="bg-primary text-white p-3 rounded-full mr-4 flex-shrink-0">
+                        <i class="fas fa-check-circle text-lg"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-semibold mb-2">Check Reviews</h3>
+                        <p class="text-gray-700">Look at Google Maps reviews and star ratings for authentic patient feedback.</p>
+                    </div>
+                </div>
+                
+                <div class="flex items-start">
+                    <div class="bg-primary text-white p-3 rounded-full mr-4 flex-shrink-0">
+                        <i class="fas fa-check-circle text-lg"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-semibold mb-2">Visit for Consultation</h3>
+                        <p class="text-gray-700">Take advantage of free consultations offered by many clinics to assess their approach.</p>
+                    </div>
+                </div>
+                
+                <div class="flex items-start">
+                    <div class="bg-primary text-white p-3 rounded-full mr-4 flex-shrink-0">
+                        <i class="fas fa-check-circle text-lg"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-semibold mb-2">Ask for Referrals</h3>
+                        <p class="text-gray-700">Personal recommendations from friends and family are often the most reliable.</p>
+                    </div>
+                </div>
+                
+                <div class="flex items-start">
+                    <div class="bg-primary text-white p-3 rounded-full mr-4 flex-shrink-0">
+                        <i class="fas fa-check-circle text-lg"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-semibold mb-2">Evaluate Cleanliness</h3>
+                        <p class="text-gray-700">Notice how clean and modern the clinic setup is during your visit.</p>
+                    </div>
+                </div>
+                
+                <div class="flex items-start md:col-span-2">
+                    <div class="bg-primary text-white p-3 rounded-full mr-4 flex-shrink-0">
+                        <i class="fas fa-check-circle text-lg"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-semibold mb-2">Clear Communication</h3>
+                        <p class="text-gray-700">Ensure the dentist explains your treatment options and procedures clearly.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Final Thoughts -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Final Thoughts</h2>
+            <p class="text-lg text-gray-700 mb-6 leading-relaxed">
+                There are many dental clinics in Lahore, but only a few truly combine expertise, transparency, hygiene, and affordability. Whether you're in need of urgent dental care or want to improve your smile, you deserve to be treated with respect and professionalism.
+            </p>
+            <p class="text-lg text-gray-700 leading-relaxed">
+                Shayan Dental Surgery continues to be one of Lahore's hidden gems—especially for people living near Airline Society, Johar Town, or Khayaban-e-Jinnah. With its trusted team, ethical approach, and advanced care, it's quickly becoming a top-rated dental clinic in Lahore.
+            </p>
+        </section>
+
+        <!-- CTA -->
+        <section class="bg-gradient-to-r from-primary to-secondary text-white rounded-2xl p-8 text-center">
+            <h2 class="text-3xl font-bold mb-4">Ready for Your Perfect Smile?</h2>
+            <p class="text-xl mb-6 max-w-2xl mx-auto">
+                Book your appointment today at Shayan Dental Surgery for expert dental care in Lahore
+            </p>
+            
+            <div class="bg-white text-gray-800 rounded-xl p-6 max-w-lg mx-auto">
+                <div class="flex flex-col sm:flex-row items-center justify-between">
+                    <div class="mb-4 sm:mb-0 sm:mr-4">
+                        <div class="flex items-center">
+                            <i class="fas fa-map-marker-alt text-primary text-xl mr-3"></i>
+                            <div>
+                                <p class="font-semibold">Address</p>
+                                <p>Shop no. 1, 592 Khayaban-e-Jinnah,<br>Airline Society, Lahore, 54000</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="bg-primary text-white py-3 px-6 rounded-lg font-bold text-xl">
+                        <i class="fas fa-phone mr-2"></i>
+                        +92 300 1404630
+                    </div>
+                </div>
+            </div>
+            
+            <p class="mt-8 text-2xl font-bold italic">Smile with confidence. Your teeth deserve it.</p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-12">
+        <div class="container mx-auto px-4">
+            <div class="text-center">
+                <p class="mb-4">© 2025 Dental Care Guide. All rights reserved.</p>
+                <p>This content is for informational purposes only. Consult with a dental professional for personalized advice.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>`,
   3: `
   <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Dental Clinics in Faisalabad 2025: Complete Guide & Reviews</title>
-    <meta name="description" content="Find the top 5 dental clinics in Faisalabad with expert reviews, pricing, and patient testimonials. Compare services, book consultations, and choose the best dentist for your needs.">
+    <title>Braces Price in Lahore: 2025 Cost Guide & Expert Tips</title>
+    <meta name="description" content="Complete guide to braces prices in Lahore for 2025. Compare metal, ceramic, lingual braces and Invisalign costs, treatment duration, and expert tips.">
+    <meta name="keywords" content="braces price in Lahore, cost of braces Lahore 2025, Lahore orthodontic treatment, best braces Lahore, Invisalign cost Lahore">
+    <meta name="author" content="Lahore Dental Guide">
+    
+    <!-- Open Graph / Social Media Meta Tags -->
+    <meta property="og:title" content="Braces Price in Lahore: 2025 Cost Guide & Expert Tips">
+    <meta property="og:description" content="Complete guide to braces prices in Lahore for 2025. Compare costs, treatment options, and find the best orthodontic care.">
+    <meta property="og:type" content="website">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom Styles -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#0ea5e9',
+                        secondary: '#0891b2',
+                        accent: '#06b6d4',
+                        dental: '#38bdf8'
+                    }
+                }
+            }
+        }
+    </script>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+        .dental-bg {
+            background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
         }
-        
-        body {
-            font-family: 'Georgia', serif;
-            line-height: 1.7;
-            color: #333;
-            background: linear-gradient(135deg, #f8f9ff 0%, #e8f4f8 100%);
-            min-height: 100vh;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-            background: white;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-            border-radius: 20px;
-            margin-top: 20px;
-            margin-bottom: 20px;
-        }
-        
-        .hero {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        .braces-table th {
+            background-color: #0ea5e9;
             color: white;
-            padding: 60px 40px;
-            text-align: center;
-            border-radius: 20px 20px 0 0;
-            position: relative;
-            overflow: hidden;
         }
-        
-        .hero::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20"><defs><radialGradient id="a" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="white" stop-opacity="0.1"/><stop offset="100%" stop-color="white" stop-opacity="0"/></radialGradient></defs><circle cx="10" cy="10" r="3" fill="url(%23a)"/><circle cx="90" cy="5" r="2" fill="url(%23a)"/><circle cx="70" cy="15" r="1" fill="url(%23a)"/></svg>') repeat;
-            opacity: 0.3;
-        }
-        
-        .hero h1 {
-            font-size: 3.2em;
-            margin-bottom: 20px;
-            font-weight: 700;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-            position: relative;
-            z-index: 1;
-        }
-        
-        .hero .subtitle {
-            font-size: 1.3em;
-            opacity: 0.95;
-            max-width: 800px;
-            margin: 0 auto;
-            position: relative;
-            z-index: 1;
-        }
-        
-        .content {
-            padding: 50px 40px;
-        }
-        
-        .toc {
-            background: linear-gradient(135deg, #f0f8ff 0%, #e6f3ff 100%);
-            padding: 30px;
-            border-radius: 15px;
-            margin-bottom: 40px;
-            border-left: 5px solid #667eea;
-        }
-        
-        .toc h2 {
-            color: #667eea;
-            margin-bottom: 20px;
-            font-size: 1.5em;
-        }
-        
-        .toc ul {
-            list-style: none;
-            columns: 2;
-            gap: 30px;
-        }
-        
-        .toc li {
-            margin-bottom: 10px;
-            padding-left: 20px;
-            position: relative;
-        }
-        
-        .toc li::before {
-            content: '→';
-            position: absolute;
-            left: 0;
-            color: #667eea;
-            font-weight: bold;
-        }
-        
-        .toc a {
-            color: #333;
-            text-decoration: none;
-            transition: color 0.3s ease;
-        }
-        
-        .toc a:hover {
-            color: #667eea;
-            text-decoration: underline;
-        }
-        
-        h2 {
-            color: #2d3748;
-            font-size: 2.2em;
-            margin: 50px 0 25px;
-            padding-bottom: 15px;
-            border-bottom: 3px solid #667eea;
-            position: relative;
-        }
-        
-        h3 {
-            color: #4a5568;
-            font-size: 1.6em;
-            margin: 35px 0 20px;
-            padding: 15px 0 15px 20px;
-            background: linear-gradient(90deg, #f7fafc 0%, transparent 100%);
-            border-left: 4px solid #667eea;
-            border-radius: 0 10px 10px 0;
-        }
-        
-        p {
-            margin-bottom: 20px;
-            font-size: 1.1em;
-            text-align: justify;
-        }
-        
-        .highlight-box {
-            background: linear-gradient(135deg, #fff5f5 0%, #fed7d7 20%, #fff5f5 100%);
-            border: 2px solid #fc8181;
-            border-radius: 15px;
-            padding: 25px;
-            margin: 30px 0;
-            position: relative;
-        }
-        
-        .highlight-box::before {
-            content: '⭐';
-            position: absolute;
-            top: -10px;
-            left: 20px;
-            background: white;
-            padding: 0 10px;
-            font-size: 1.5em;
-        }
-        
-        .criteria-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 25px;
-            margin: 30px 0;
-        }
-        
-        .criteria-card {
-            background: white;
-            border: 2px solid #e2e8f0;
-            border-radius: 15px;
-            padding: 25px;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-        }
-        
-        .criteria-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
-            border-color: #667eea;
-        }
-        
-        .criteria-card h4 {
-            color: #667eea;
-            font-size: 1.3em;
-            margin-bottom: 15px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-        
-        .criteria-card h4::before {
-            content: '✓';
-            background: #667eea;
-            color: white;
-            border-radius: 50%;
-            width: 25px;
-            height: 25px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 0.8em;
-            font-weight: bold;
-        }
-        
-        .comparison-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 30px 0;
-            background: white;
-            border-radius: 15px;
-            overflow: hidden;
-            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
-        }
-        
-        .comparison-table th {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 20px 15px;
-            text-align: left;
-            font-weight: 600;
-            font-size: 1.1em;
-        }
-        
-        .comparison-table td {
-            padding: 18px 15px;
-            border-bottom: 1px solid #e2e8f0;
-            transition: background-color 0.3s ease;
-        }
-        
-        .comparison-table tr:hover td {
-            background-color: #f8f9ff;
-        }
-        
-        .clinic-card {
-            background: linear-gradient(135deg, #ffffff 0%, #f8f9ff 100%);
-            border: 2px solid #e2e8f0;
-            border-radius: 20px;
-            padding: 30px;
-            margin: 30px 0;
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-        }
-        
-        .clinic-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 4px;
-            background: linear-gradient(90deg, #667eea, #764ba2);
-        }
-        
-        .clinic-card:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 12px 30px rgba(0,0,0,0.12);
-            border-color: #667eea;
-        }
-        
-        .rating {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
-            color: #744210;
-            padding: 8px 15px;
-            border-radius: 25px;
-            font-weight: bold;
-            font-size: 0.95em;
-        }
-        
-        .rating::before {
-            content: '⭐';
-        }
-        
         .price-tag {
-            background: linear-gradient(135deg, #48bb78 0%, #38a169 100%);
-            color: white;
-            padding: 8px 15px;
-            border-radius: 25px;
-            font-weight: bold;
-            display: inline-block;
-            margin: 10px 0;
+            background: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%);
         }
-        
-        .testimonial {
-            background: linear-gradient(135deg, #f0fff4 0%, #c6f6d5 100%);
-            border-left: 5px solid #48bb78;
-            padding: 20px;
-            margin: 20px 0;
-            border-radius: 0 15px 15px 0;
-            font-style: italic;
-            position: relative;
-        }
-        
-        .testimonial::before {
-            content: '"';
-            font-size: 3em;
-            color: #48bb78;
-            position: absolute;
-            top: -10px;
-            left: 10px;
-            opacity: 0.3;
-        }
-        
-        .faq-section {
-            margin: 40px 0;
-        }
-        
-        .faq-item {
-            background: white;
-            border: 2px solid #e2e8f0;
-            border-radius: 15px;
-            margin-bottom: 15px;
-            overflow: hidden;
+        .comparison-card {
             transition: all 0.3s ease;
         }
-        
-        .faq-item:hover {
-            border-color: #667eea;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        .comparison-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
         }
-        
-        .faq-question {
-            background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
-            padding: 20px;
-            font-weight: bold;
-            color: #2d3748;
-            margin: 0 !important;
-            cursor: pointer;
-            position: relative;
+        .testimonial-card {
+            background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+            border-left: 4px solid #0ea5e9;
         }
-        
-        .faq-question::after {
-            content: '+';
-            position: absolute;
-            right: 20px;
-            top: 50%;
-            transform: translateY(-50%);
-            font-size: 1.5em;
-            color: #667eea;
-        }
-        
-        .faq-answer {
-            padding: 20px;
-            margin: 0 !important;
-            background: white;
-        }
-        
-        .cta-section {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 50px;
-            border-radius: 20px;
-            text-align: center;
-            margin: 50px 0;
-            position: relative;
-            overflow: hidden;
-        }
-        
-        .cta-section::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
-            animation: pulse 4s ease-in-out infinite;
-        }
-        
-        @keyframes pulse {
-            0%, 100% { opacity: 0.3; }
-            50% { opacity: 0.7; }
-        }
-        
-        .cta-button {
-            background: white;
-            color: #667eea;
-            padding: 15px 35px;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 1.2em;
-            display: inline-block;
-            margin: 20px 10px;
-            transition: all 0.3s ease;
-            position: relative;
-            z-index: 1;
-        }
-        
-        .cta-button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-            background: #f7fafc;
-        }
-        
-        .features-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin: 30px 0;
-        }
-        
-        .feature-item {
-            background: white;
-            padding: 20px;
-            border-radius: 15px;
-            border: 2px solid #e2e8f0;
-            text-align: center;
-            transition: all 0.3s ease;
-        }
-        
-        .feature-item:hover {
-            border-color: #667eea;
-            transform: translateY(-3px);
-            box-shadow: 0 6px 20px rgba(0,0,0,0.1);
-        }
-        
-        .feature-icon {
-            font-size: 2.5em;
-            margin-bottom: 15px;
-            display: block;
-        }
-        
-        .specialty-badge {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 5px 12px;
-            border-radius: 20px;
-            font-size: 0.85em;
-            font-weight: bold;
-            display: inline-block;
-            margin: 5px 5px 5px 0;
-        }
-        
-        .location-info {
-            background: linear-gradient(135deg, #f0f8ff 0%, #e6f3ff 100%);
-            padding: 15px;
-            border-radius: 10px;
-            margin: 15px 0;
-            border-left: 4px solid #667eea;
-        }
-        
-        .location-info strong {
-            color: #667eea;
-        }
-        
-        @media (max-width: 768px) {
-            .hero {
-                padding: 40px 20px;
-            }
-            
-            .hero h1 {
-                font-size: 2.2em;
-            }
-            
-            .content {
-                padding: 30px 20px;
-            }
-            
-            .toc ul {
-                columns: 1;
-            }
-            
-            .comparison-table {
-                font-size: 0.9em;
-            }
-            
-            .comparison-table th,
-            .comparison-table td {
-                padding: 12px 8px;
-            }
+        .clinic-card {
+            background: linear-gradient(135deg, #f0fdfa 0%, #ccfbf1 100%);
         }
     </style>
 </head>
-<body>
-    <div class="container">
-        <div class="hero">
-            <h1>Best Dental Clinics in Faisalabad 2025</h1>
-            <p class="subtitle">Expert Reviews, Verified Ratings & Complete Guide to Finding Your Perfect Dentist</p>
-        </div>
-        
-        <div class="content">
-            <div class="toc">
-                <h2>📋 Quick Navigation</h2>
-                <ul>
-                    <li><a href="#selection-criteria">How We Selected These Clinics</a></li>
-                    <li><a href="#top-5-clinics">Top 5 Dental Clinics Ranked</a></li>
-                    <li><a href="#detailed-reviews">Detailed Clinic Reviews</a></li>
-                    <li><a href="#comparison-table">Side-by-Side Comparison</a></li>
-                    <li><a href="#patient-testimonials">Real Patient Reviews</a></li>
-                    <li><a href="#faq">Frequently Asked Questions</a></li>
-                    <li><a href="#booking-guide">How to Book Consultation</a></li>
-                </ul>
-            </div>
-
-            <div class="highlight-box">
-                <p><strong>Quick Answer:</strong> Doctor Teeth Clinic ranks #1 for comprehensive care with 4.9★ rating and transparent pricing (PKR 10,000-50,000). For specific treatments: SmileWorks (cosmetic), OrthoAlign (braces), Emergency Dental Hub (urgent care), and Surgical Dental Pros (implants).</p>
-            </div>
-
-            <section id="selection-criteria">
-                <h2>🔍 How We Selected the Best Dental Clinics in Faisalabad</h2>
-                <p>Our comprehensive evaluation process examined over 25 dental clinics across Faisalabad, using strict criteria to identify the top 5 that consistently deliver exceptional patient care and outcomes.</p>
-                
-                <div class="criteria-grid">
-                    <div class="criteria-card">
-                        <h4>Professional Credentials</h4>
-                        <p>Board-certified dentists with minimum 5 years experience, specialized training certifications, and continuous education records.</p>
-                    </div>
-                    <div class="criteria-card">
-                        <h4>Technology & Equipment</h4>
-                        <p>Modern digital X-rays, 3D scanning capabilities, laser dentistry tools, and sterilization protocols meeting international standards.</p>
-                    </div>
-                    <div class="criteria-card">
-                        <h4>Patient Satisfaction</h4>
-                        <p>Google Reviews analysis (minimum 4.5★), patient testimonials verification, and treatment outcome success rates.</p>
-                    </div>
-                    <div class="criteria-card">
-                        <h4>Transparent Pricing</h4>
-                        <p>Clear fee structures, no hidden costs, payment plan options, and competitive rates within Faisalabad market standards.</p>
-                    </div>
-                    <div class="criteria-card">
-                        <h4>Accessibility & Comfort</h4>
-                        <p>Convenient locations, parking availability, comfortable facilities, emergency services, and multilingual staff support.</p>
-                    </div>
-                    <div class="criteria-card">
-                        <h4>Treatment Range</h4>
-                        <p>Comprehensive service offerings from basic cleanings to advanced surgical procedures, specialty treatments availability.</p>
+<body class="bg-gray-50 font-sans">
+    <!-- Header -->
+    <header class="dental-bg">
+        <div class="container mx-auto px-4 py-12">
+            <div class="max-w-4xl mx-auto text-center">
+                <h1 class="text-4xl md:text-5xl font-bold mb-4 text-gray-800">Braces Price in Lahore: 2025 Cost Guide & Expert Tips</h1>
+                <p class="text-xl text-gray-600">Everything you need to know about braces costs in Lahore - from metal to Invisalign options</p>
+                <div class="mt-8 flex justify-center">
+                    <div class="price-tag text-white font-bold text-xl py-3 px-6 rounded-full inline-block">
+                        <i class="fas fa-tag mr-2"></i>PKR 50,000 - PKR 500,000+
                     </div>
                 </div>
-            </section>
+            </div>
+        </div>
+    </header>
 
-            <section id="top-5-clinics">
-                <h2>🏆 Top 5 Dental Clinics in Faisalabad - 2025 Rankings</h2>
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-12 max-w-6xl">
+        <!-- Introduction -->
+        <section class="mb-16">
+            <p class="text-lg text-gray-700 mb-6 leading-relaxed">
+                If you're considering orthodontic braces in Lahore in 2025, here's everything you need to know—from typical prices to types of braces, treatment duration, hidden costs, expert advice, and smart choices to get the best results.
+            </p>
+        </section>
+
+        <!-- Why Invest in Braces -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Why Invest in Braces?</h2>
+            <p class="text-lg text-gray-700 mb-8">
+                Braces aren't just for a perfect smile—they improve:
+            </p>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-4">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-teeth text-primary text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Oral Health</h3>
+                    </div>
+                    <p class="text-gray-600">Correct alignment reduces cavities and gum issues.</p>
+                </div>
                 
-                <table class="comparison-table">
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-4">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-utensils text-primary text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Chewing & Speech</h3>
+                    </div>
+                    <p class="text-gray-600">Misaligned teeth and bite issues often cause discomfort and speech problems.</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-4">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-smile-beam text-primary text-xl"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Self-Esteem</h3>
+                    </div>
+                    <p class="text-gray-600">Straight teeth naturally boost confidence.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Price Range -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Typical Braces Price Range in Lahore (2025)</h2>
+            <p class="text-lg text-gray-700 mb-8">
+                Prices in Lahore can range widely depending on type, case complexity, and clinic.
+            </p>
+            
+            <div class="overflow-x-auto">
+                <table class="w-full braces-table rounded-xl overflow-hidden shadow-lg">
                     <thead>
                         <tr>
-                            <th>Rank</th>
-                            <th>Clinic Name</th>
-                            <th>Specialty Focus</th>
-                            <th>Price Range (PKR)</th>
-                            <th>Rating</th>
-                            <th>Best For</th>
+                            <th class="text-left py-4 px-6">Type of Braces</th>
+                            <th class="py-4 px-6">Starting</th>
+                            <th class="py-4 px-6">Average</th>
+                            <th class="py-4 px-6">Max / Complex</th>
                         </tr>
                     </thead>
-                    <tbody>
-                        <tr>
-                            <td><strong>1</strong></td>
-                            <td>Doctor Teeth Clinic</td>
-                            <td>Comprehensive Dental Care</td>
-                            <td>10,000–50,000</td>
-                            <td><span class="rating">4.9</span></td>
-                            <td>All-round care</td>
+                    <tbody class="bg-white">
+                        <tr class="border-b border-gray-200 hover:bg-gray-50">
+                            <td class="py-4 px-6 font-medium">Metal (Traditional)</td>
+                            <td class="py-4 px-6">PKR 50,000</td>
+                            <td class="py-4 px-6">PKR 90,000</td>
+                            <td class="py-4 px-6">PKR 150,000</td>
                         </tr>
-                        <tr>
-                            <td><strong>2</strong></td>
-                            <td>SmileWorks Dental Care</td>
-                            <td>Cosmetic Dentistry</td>
-                            <td>15,000–40,000</td>
-                            <td><span class="rating">4.8</span></td>
-                            <td>Smile makeovers</td>
+                        <tr class="border-b border-gray-200 hover:bg-gray-50">
+                            <td class="py-4 px-6 font-medium">Ceramic</td>
+                            <td class="py-4 px-6">PKR 80,000</td>
+                            <td class="py-4 px-6">PKR 110,000</td>
+                            <td class="py-4 px-6">PKR 200,000</td>
                         </tr>
-                        <tr>
-                            <td><strong>3</strong></td>
-                            <td>OrthoAlign Faisalabad</td>
-                            <td>Orthodontics</td>
-                            <td>50,000–120,000</td>
-                            <td><span class="rating">4.9</span></td>
-                            <td>Braces & aligners</td>
+                        <tr class="border-b border-gray-200 hover:bg-gray-50">
+                            <td class="py-4 px-6 font-medium">Lingual (Hidden)</td>
+                            <td class="py-4 px-6">PKR 120,000</td>
+                            <td class="py-4 px-6">PKR 180,000</td>
+                            <td class="py-4 px-6">PKR 350,000</td>
                         </tr>
-                        <tr>
-                            <td><strong>4</strong></td>
-                            <td>Emergency Dental Hub</td>
-                            <td>Emergency Care</td>
-                            <td>3,000–25,000</td>
-                            <td><span class="rating">4.6</span></td>
-                            <td>Urgent treatments</td>
-                        </tr>
-                        <tr>
-                            <td><strong>5</strong></td>
-                            <td>Surgical Dental Pros</td>
-                            <td>Oral Surgery</td>
-                            <td>60,000–200,000</td>
-                            <td><span class="rating">4.8</span></td>
-                            <td>Implants & surgery</td>
+                        <tr class="hover:bg-gray-50">
+                            <td class="py-4 px-6 font-medium">Invisalign/Clear Aligners</td>
+                            <td class="py-4 px-6">PKR 150,000</td>
+                            <td class="py-4 px-6">PKR 250,000</td>
+                            <td class="py-4 px-6">PKR 350,000</td>
                         </tr>
                     </tbody>
                 </table>
-            </section>
+            </div>
+            
+            <p class="mt-6 text-gray-700">
+                In some cases, especially complex alignments, costs may go even higher—up to PKR 400,000–500,000 for advanced clear aligners.
+            </p>
+        </section>
 
-            <section id="detailed-reviews">
-                <h2>📝 Detailed Clinic Reviews & Analysis</h2>
+        <!-- Factors Influencing Cost -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Factors That Influence Braces Cost</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-3">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-braces text-primary"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Type of Braces</h3>
+                    </div>
+                    <p class="text-gray-600">Metal is most affordable; lingual and Invisalign are top-tier</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-3">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-complexity text-primary"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Complexity of Case</h3>
+                    </div>
+                    <p class="text-gray-600">More severe misalignment means longer treatment and higher cost</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-3">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-user-md text-primary"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Orthodontist Expertise</h3>
+                    </div>
+                    <p class="text-gray-600">Renowned specialists often charge more</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-3">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-map-marker-alt text-primary"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Clinic Location</h3>
+                    </div>
+                    <p class="text-gray-600">Premium clinics in Gulberg/DHA charge higher fees</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-3">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-calendar-alt text-primary"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Treatment Duration</h3>
+                    </div>
+                    <p class="text-gray-600">Typically 18–24 months with monthly visits</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-3">
+                        <div class="bg-blue-100 p-3 rounded-full mr-4">
+                            <i class="fas fa-exclamation-triangle text-primary"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold">Hidden Costs</h3>
+                    </div>
+                    <p class="text-gray-600">Includes consultation, x‑rays, retainers, and emergency visits</p>
+                </div>
+            </div>
+        </section>
 
-                <div class="clinic-card">
-                    <h3>🥇 #1 Doctor Teeth Clinic - Best Overall Dental Care</h3>
-                    <div class="location-info">
-                        <strong>📍 Location:</strong> Central Plaza, Satiana Road, Faisalabad<br>
-                        <strong>📞 Contact:</strong> +92 300 1234567<br>
-                        <strong>🕒 Hours:</strong> Mon-Sat 9AM-8PM, Sun 10AM-6PM
+        <!-- Cost Breakdown -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Breaking Down the Total Cost</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex justify-between items-center mb-3">
+                        <h3 class="text-xl font-semibold">Consultation & Diagnostics</h3>
+                        <span class="bg-blue-100 text-blue-800 py-1 px-3 rounded-full font-medium">PKR 1,000–5,000</span>
+                    </div>
+                    <p class="text-gray-600">Initial assessment and treatment planning</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex justify-between items-center mb-3">
+                        <h3 class="text-xl font-semibold">X‑rays & Impressions</h3>
+                        <span class="bg-blue-100 text-blue-800 py-1 px-3 rounded-full font-medium">PKR 3,000–8,000</span>
+                    </div>
+                    <p class="text-gray-600">Essential for accurate treatment planning</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex justify-between items-center mb-3">
+                        <h3 class="text-xl font-semibold">Monthly Adjustments</h3>
+                        <span class="bg-blue-100 text-blue-800 py-1 px-3 rounded-full font-medium">PKR 1,000–3,000</span>
+                    </div>
+                    <p class="text-gray-600">Regular visits for adjustments</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex justify-between items-center mb-3">
+                        <h3 class="text-xl font-semibold">Retainers</h3>
+                        <span class="bg-blue-100 text-blue-800 py-1 px-3 rounded-full font-medium">PKR 10,000–30,000</span>
+                    </div>
+                    <p class="text-gray-600">Essential for maintaining results post-treatment</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex justify-between items-center mb-3">
+                        <h3 class="text-xl font-semibold">Emergency/Repair Visits</h3>
+                        <span class="bg-blue-100 text-blue-800 py-1 px-3 rounded-full font-medium">PKR 1,500–5,000</span>
+                    </div>
+                    <p class="text-gray-600">For unexpected issues or breakages</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex justify-between items-center mb-3">
+                        <h3 class="text-xl font-semibold">Extractions/Prep Work</h3>
+                        <span class="bg-blue-100 text-blue-800 py-1 px-3 rounded-full font-medium">Varies</span>
+                    </div>
+                    <p class="text-gray-600">Possible extractions or preparatory treatment</p>
+                </div>
+            </div>
+            
+            <div class="mt-8 bg-blue-50 p-6 rounded-xl border-l-4 border-primary">
+                <div class="flex items-start">
+                    <i class="fas fa-lightbulb text-2xl text-primary mr-4 mt-1"></i>
+                    <p class="text-lg font-medium">
+                        Always request a full cost breakdown from your orthodontist to avoid surprises
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Treatment Duration -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Treatment Duration</h2>
+            <div class="bg-white p-8 rounded-xl shadow-md">
+                <div class="flex flex-col md:flex-row items-center">
+                    <div class="md:w-1/3 mb-6 md:mb-0 text-center">
+                        <div class="inline-block bg-blue-100 p-6 rounded-full">
+                            <i class="fas fa-clock text-5xl text-primary"></i>
+                        </div>
+                        <p class="mt-4 text-xl font-bold text-gray-800">18-24 Months</p>
+                        <p class="text-gray-600">Average treatment time</p>
+                    </div>
+                    <div class="md:w-2/3 md:pl-8">
+                        <p class="text-lg text-gray-700 mb-4">
+                            Most orthodontic cases finish within 18–24 months, although mild Invisalign cases may wrap up in 12–18 months. Complex cases—especially with lingual braces—can take longer.
+                        </p>
+                        <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-400">
+                            <p class="text-gray-700">
+                                <i class="fas fa-exclamation-circle text-yellow-500 mr-2"></i>
+                                Treatment duration can vary significantly based on individual cases and patient compliance
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Comparison Section -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Metal Braces vs Aligners: What's Best for Lahore?</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- Metal Braces -->
+                <div class="comparison-card bg-white p-8 rounded-xl shadow-md">
+                    <div class="flex justify-between items-start mb-6">
+                        <h3 class="text-2xl font-bold text-gray-800">Metal Braces</h3>
+                        <span class="bg-green-100 text-green-800 py-1 px-3 rounded-full font-medium">PKR 50k–150k</span>
                     </div>
                     
-                    <div class="features-grid">
-                        <div class="feature-item">
-                            <span class="feature-icon">🦷</span>
-                            <strong>Complete Care</strong>
-                            <p>General, cosmetic, orthodontic & surgical treatments</p>
-                        </div>
-                        <div class="feature-item">
-                            <span class="feature-icon">💎</span>
-                            <strong>3D Technology</strong>
-                            <p>Advanced scanning & digital treatment planning</p>
-                        </div>
-                        <div class="feature-item">
-                            <span class="feature-icon">🚨</span>
-                            <strong>Emergency Care</strong>
-                            <p>Same-day appointments & 24/7 on-call service</p>
-                        </div>
-                        <div class="feature-item">
-                            <span class="feature-icon">💰</span>
-                            <strong>Transparent Pricing</strong>
-                            <p>No hidden fees & flexible payment plans</p>
-                        </div>
+                    <div class="mb-6">
+                        <h4 class="text-lg font-bold text-green-600 mb-3">Pros:</h4>
+                        <ul class="list-disc pl-5 space-y-2 text-gray-700">
+                            <li>Effective for almost any alignment</li>
+                            <li>Lowest cost option</li>
+                            <li>Proven track record</li>
+                        </ul>
                     </div>
-
-                    <p><strong>Why We Ranked #1:</strong> Doctor Teeth Clinic excels in providing comprehensive dental care with state-of-the-art technology and exceptional patient service. Their 3D scanning technology enables precise treatment planning, while their transparent pricing policy eliminates surprise costs.</p>
-
-                    <div class="specialty-badge">General Dentistry</div>
-                    <div class="specialty-badge">Cosmetic Procedures</div>
-                    <div class="specialty-badge">Orthodontics</div>
-                    <div class="specialty-badge">Oral Surgery</div>
-                    <div class="specialty-badge">Pediatric Care</div>
-
-                    <div class="price-tag">💰 PKR 10,000 - 50,000</div>
-
-                    <div class="testimonial">
-                        "The consultation was thorough and the treatment plan was explained clearly. No unnecessary procedures were recommended, and the pricing was upfront." - Zainab R., Google Review
-                    </div>
-
-                    <p><strong>Unique Benefits:</strong></p>
-                    <ul>
-                        <li>Free follow-up visits for 6 months post-treatment</li>
-                        <li>Complimentary initial consultation</li>
-                        <li>Same-day emergency appointments available</li>
-                        <li>Multi-language support (Urdu, English, Punjabi)</li>
-                        <li>Digital treatment records for easy access</li>
-                    </ul>
-                </div>
-
-                <div class="clinic-card">
-                    <h3>🥈 #2 SmileWorks Dental Care - Premier Cosmetic Dentistry</h3>
-                    <div class="location-info">
-                        <strong>📍 Location:</strong> D-Town Mall, Clock Tower Area, Faisalabad<br>
-                        <strong>🎯 Specialization:</strong> Cosmetic & Aesthetic Dentistry
-                    </div>
-
-                    <p><strong>Best For:</strong> Teeth whitening, veneers, smile makeovers, and aesthetic dental procedures. SmileWorks uses advanced 3D smile design technology to preview your results before treatment begins.</p>
-
-                    <div class="specialty-badge">Teeth Whitening</div>
-                    <div class="specialty-badge">Porcelain Veneers</div>
-                    <div class="specialty-badge">Smile Design</div>
-                    <div class="specialty-badge">Composite Bonding</div>
-
-                    <div class="price-tag">💰 PKR 15,000 - 40,000</div>
-
-                    <div class="testimonial">
-                        "My smile transformation was completed in just 2 sessions. The digital preview helped me see exactly what to expect!" - Aisha K., Verified Patient
+                    
+                    <div>
+                        <h4 class="text-lg font-bold text-red-600 mb-3">Cons:</h4>
+                        <ul class="list-disc pl-5 space-y-2 text-gray-700">
+                            <li>Visible appearance</li>
+                            <li>Require careful cleaning</li>
+                            <li>Can cause discomfort initially</li>
+                        </ul>
                     </div>
                 </div>
-
-                <div class="clinic-card">
-                    <h3>🥉 #3 OrthoAlign Faisalabad - Orthodontic Excellence</h3>
-                    <div class="location-info">
-                        <strong>📍 Location:</strong> Chenone Plaza, Johar Town, Faisalabad<br>
-                        <strong>🎯 Specialization:</strong> Braces, Clear Aligners & Orthodontic Treatment
-                    </div>
-
-                    <p><strong>Treatment Options:</strong> Traditional metal braces, ceramic braces, and clear aligner systems with treatment duration ranging from 6-24 months depending on case complexity.</p>
-
-                    <div class="specialty-badge">Metal Braces</div>
-                    <div class="specialty-badge">Ceramic Braces</div>
-                    <div class="specialty-badge">Clear Aligners</div>
-                    <div class="specialty-badge">Retainers</div>
-
-                    <div class="price-tag">💰 PKR 50,000 - 120,000</div>
-
-                    <p><strong>Financing Options:</strong> 0% interest EMI plans up to 12 months, making orthodontic treatment more accessible for families.</p>
-
-                    <div class="testimonial">
-                        "The clear aligners were comfortable and discreet. Monthly check-ups were quick and professional." - Bilal R., Treatment Completed
-                    </div>
-                </div>
-
-                <div class="clinic-card">
-                    <h3>🚨 #4 Emergency Dental Hub - 24/7 Urgent Care</h3>
-                    <div class="location-info">
-                        <strong>📍 Location:</strong> Near Railway Station, Jaranwala Road, Faisalabad<br>
-                        <strong>⏰ Availability:</strong> 7 days a week, 7AM-9PM (Saturday nights until midnight)
-                    </div>
-
-                    <p><strong>Emergency Services:</strong> Immediate pain relief, emergency root canals, trauma treatment, and urgent dental repairs with walk-in availability.</p>
-
-                    <div class="specialty-badge">Pain Management</div>
-                    <div class="specialty-badge">Emergency Root Canal</div>
-                    <div class="specialty-badge">Trauma Treatment</div>
-                    <div class="specialty-badge">Urgent Repairs</div>
-
-                    <div class="price-tag">💰 PKR 3,000 - 25,000</div>
-
-                    <div class="testimonial">
-                        "When I had severe tooth pain at 8 PM, they took me immediately and provided instant relief. Lifesaver!" - Hassan M., Emergency Patient
-                    </div>
-                </div>
-
-                <div class="clinic-card">
-                    <h3>🔧 #5 Surgical Dental Pros - Advanced Oral Surgery</h3>
-                    <div class="location-info">
-                        <strong>📍 Location:</strong> D-Ground, near Chenab Hospital, Faisalabad<br>
-                        <strong>👨‍⚕️ Lead Surgeon:</strong> Dr. Ahmed (10+ years implant expertise)
-                    </div>
-
-                    <p><strong>Surgical Expertise:</strong> Dental implants, wisdom tooth extraction, bone grafting, and complex oral surgeries using CBCT-guided precision techniques.</p>
-
-                    <div class="specialty-badge">Dental Implants</div>
-                    <div class="specialty-badge">Wisdom Teeth</div>
-                    <div class="specialty-badge">Bone Grafting</div>
-                    <div class="specialty-badge">Oral Surgery</div>
-
-                    <div class="price-tag">💰 PKR 60,000 - 200,000</div>
-
-                    <div class="testimonial">
-                        "My dental implants feel completely natural. The guided surgery technique made recovery much faster than expected." - Maryam S., Implant Patient
-                    </div>
-                </div>
-            </section>
-
-            <section id="comparison-table">
-                <h2>⚖️ Side-by-Side Feature Comparison</h2>
                 
-                <table class="comparison-table">
-                    <thead>
-                        <tr>
-                            <th>Service/Feature</th>
-                            <th>Doctor Teeth</th>
-                            <th> `,
+                <!-- Ceramic Braces -->
+                <div class="comparison-card bg-white p-8 rounded-xl shadow-md">
+                    <div class="flex justify-between items-start mb-6">
+                        <h3 class="text-2xl font-bold text-gray-800">Ceramic Braces</h3>
+                        <span class="bg-green-100 text-green-800 py-1 px-3 rounded-full font-medium">PKR 80k–200k</span>
+                    </div>
+                    
+                    <div class="mb-6">
+                        <h4 class="text-lg font-bold text-green-600 mb-3">Pros:</h4>
+                        <ul class="list-disc pl-5 space-y-2 text-gray-700">
+                            <li>Less visible than metal</li>
+                            <li>Moderate cost</li>
+                            <li>Effective for most cases</li>
+                        </ul>
+                    </div>
+                    
+                    <div>
+                        <h4 class="text-lg font-bold text-red-600 mb-3">Cons:</h4>
+                        <ul class="list-disc pl-5 space-y-2 text-gray-700">
+                            <li>Prone to staining</li>
+                            <li>Slightly pricier than metal</li>
+                            <li>Brackets can be brittle</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Lingual Braces -->
+                <div class="comparison-card bg-white p-8 rounded-xl shadow-md">
+                    <div class="flex justify-between items-start mb-6">
+                        <h3 class="text-2xl font-bold text-gray-800">Lingual Braces</h3>
+                        <span class="bg-green-100 text-green-800 py-1 px-3 rounded-full font-medium">PKR 120k–350k+</span>
+                    </div>
+                    
+                    <div class="mb-6">
+                        <h4 class="text-lg font-bold text-green-600 mb-3">Pros:</h4>
+                        <ul class="list-disc pl-5 space-y-2 text-gray-700">
+                            <li>Hidden behind teeth</li>
+                            <li>Completely invisible</li>
+                            <li>Effective for complex cases</li>
+                        </ul>
+                    </div>
+                    
+                    <div>
+                        <h4 class="text-lg font-bold text-red-600 mb-3">Cons:</h4>
+                        <ul class="list-disc pl-5 space-y-2 text-gray-700">
+                            <li>Highest cost option</li>
+                            <li>Speech discomfort possible</li>
+                            <li>Harder to clean</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Invisalign -->
+                <div class="comparison-card bg-white p-8 rounded-xl shadow-md">
+                    <div class="flex justify-between items-start mb-6">
+                        <h3 class="text-2xl font-bold text-gray-800">Invisalign/Clear Aligners</h3>
+                        <span class="bg-green-100 text-green-800 py-1 px-3 rounded-full font-medium">PKR 150k–350k+</span>
+                    </div>
+                    
+                    <div class="mb-6">
+                        <h4 class="text-lg font-bold text-green-600 mb-3">Pros:</h4>
+                        <ul class="list-disc pl-5 space-y-2 text-gray-700">
+                            <li>Removable for eating and cleaning</li>
+                            <li>Sleek, nearly invisible design</li>
+                            <li>Fewer visits needed</li>
+                        </ul>
+                    </div>
+                    
+                    <div>
+                        <h4 class="text-lg font-bold text-red-600 mb-3">Cons:</h4>
+                        <ul class="list-disc pl-5 space-y-2 text-gray-700">
+                            <li>More expensive than traditional braces</li>
+                            <li>Suitable mostly for mild–moderate cases</li>
+                            <li>Requires discipline to wear consistently</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Top Clinics -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Top Clinics Offering Braces in Lahore</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div class="clinic-card p-6 rounded-xl shadow-md">
+                    <h3 class="text-xl font-bold text-gray-800 mb-2">Dental Aesthetics (DHA)</h3>
+                    <p class="text-gray-700 mb-4">Specializes in cosmetic dentistry and advanced orthodontics</p>
+                    <div class="flex items-center">
+                        <i class="fas fa-star text-yellow-400 mr-1"></i>
+                        <span class="text-gray-700 font-medium">4.8/5 (Google Reviews)</span>
+                    </div>
+                </div>
+                
+                <div class="clinic-card p-6 rounded-xl shadow-md">
+                    <h3 class="text-xl font-bold text-gray-800 mb-2">Smile Hub (Gulberg)</h3>
+                    <p class="text-gray-700 mb-4">Experienced team with flexible appointment slots</p>
+                    <div class="flex items-center">
+                        <i class="fas fa-star text-yellow-400 mr-1"></i>
+                        <span class="text-gray-700 font-medium">4.7/5 (Google Reviews)</span>
+                    </div>
+                </div>
+                
+                <div class="clinic-card p-6 rounded-xl shadow-md">
+                    <h3 class="text-xl font-bold text-gray-800 mb-2">Alvi Dental (Johar Town)</h3>
+                    <p class="text-gray-700 mb-4">Offers comprehensive orthodontic solutions</p>
+                    <div class="flex items-center">
+                        <i class="fas fa-star text-yellow-400 mr-1"></i>
+                        <span class="text-gray-700 font-medium">4.6/5 (Google Reviews)</span>
+                    </div>
+                </div>
+                
+                <div class="clinic-card p-6 rounded-xl shadow-md">
+                    <h3 class="text-xl font-bold text-gray-800 mb-2">Dental Experts (Model Town)</h3>
+                    <p class="text-gray-700 mb-4">Known for digital smile design and quality orthodontics</p>
+                    <div class="flex items-center">
+                        <i class="fas fa-star text-yellow-400 mr-1"></i>
+                        <span class="text-gray-700 font-medium">4.7/5 (Google Reviews)</span>
+                    </div>
+                </div>
+                
+                <div class="clinic-card p-6 rounded-xl shadow-md md:col-span-2">
+                    <h3 class="text-xl font-bold text-gray-800 mb-2">Dental Square (Bahria Town)</h3>
+                    <p class="text-gray-700 mb-4">Provides advanced dental procedures with high-end equipment</p>
+                    <div class="flex items-center">
+                        <i class="fas fa-star text-yellow-400 mr-1"></i>
+                        <span class="text-gray-700 font-medium">4.8/5 (Google Reviews)</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="mt-8 bg-blue-50 p-6 rounded-xl">
+                <p class="text-lg text-gray-700">
+                    <i class="fas fa-info-circle text-primary mr-2"></i>
+                    According to Oladoc, braces at reputable orthodontists start around PKR 70,000–100,000 and Invisalign from around PKR 120,000–150,000.
+                </p>
+            </div>
+        </section>
+
+        <!-- Patient Testimonials -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Real Patient Voices</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div class="testimonial-card p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-4">
+                        <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Patient" class="w-12 h-12 rounded-full mr-4">
+                        <div>
+                            <h3 class="font-bold">Ali R.</h3>
+                            <div class="flex">
+                                <i class="fas fa-star text-yellow-400"></i>
+                                <i class="fas fa-star text-yellow-400"></i>
+                                <i class="fas fa-star text-yellow-400"></i>
+                                <i class="fas fa-star text-yellow-400"></i>
+                                <i class="fas fa-star text-yellow-400"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="text-gray-700 italic">
+                        "The cost would be 250k for the braces... braces treatment itself is almost the same price everywhere in Pakistan, around 150k."
+                    </p>
+                </div>
+                
+                <div class="testimonial-card p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-4">
+                        <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Patient" class="w-12 h-12 rounded-full mr-4">
+                        <div>
+                            <h3 class="font-bold">Sara K.</h3>
+                            <div class="flex">
+                                <i class="fas fa-star text-yellow-400"></i>
+                                <i class="fas fa-star text-yellow-400"></i>
+                                <i class="fas fa-star text-yellow-400"></i>
+                                <i class="fas fa-star text-yellow-400"></i>
+                                <i class="fas fa-star text-yellow-400"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="text-gray-700 italic">
+                        "I recommend FMH (Fatima Memorial Hospital) or CMH clinics offering more affordable brackets (~PKR 40k for basic treatment)."
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Tips -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Smart Tips Before Getting Braces</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div class="flex items-start">
+                    <div class="bg-primary text-white p-3 rounded-full mr-4 flex-shrink-0">
+                        <i class="fas fa-check-circle text-lg"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-semibold mb-2">Get Detailed Quotes</h3>
+                        <p class="text-gray-700">Request a comprehensive quote with all potential hidden charges.</p>
+                    </div>
+                </div>
+                
+                <div class="flex items-start">
+                    <div class="bg-primary text-white p-3 rounded-full mr-4 flex-shrink-0">
+                        <i class="fas fa-check-circle text-lg"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-semibold mb-2">Consult Multiple Clinics</h3>
+                        <p class="text-gray-700">Visit both private and government clinics to compare options.</p>
+                    </div>
+                </div>
+                
+                <div class="flex items-start">
+                    <div class="bg-primary text-white p-3 rounded-full mr-4 flex-shrink-0">
+                        <i class="fas fa-check-circle text-lg"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-semibold mb-2">Check Qualifications</h3>
+                        <p class="text-gray-700">Look for BDS, FCPS Orthodontics certifications.</p>
+                    </div>
+                </div>
+                
+                <div class="flex items-start">
+                    <div class="bg-primary text-white p-3 rounded-full mr-4 flex-shrink-0">
+                        <i class="fas fa-check-circle text-lg"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-semibold mb-2">Review Hygiene Standards</h3>
+                        <p class="text-gray-700">Ensure modern equipment and sterilization protocols.</p>
+                    </div>
+                </div>
+                
+                <div class="flex items-start">
+                    <div class="bg-primary text-white p-3 rounded-full mr-4 flex-shrink-0">
+                        <i class="fas fa-check-circle text-lg"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-semibold mb-2">Ask About Payment Plans</h3>
+                        <p class="text-gray-700">Many clinics offer installment options.</p>
+                    </div>
+                </div>
+                
+                <div class="flex items-start">
+                    <div class="bg-primary text-white p-3 rounded-full mr-4 flex-shrink-0">
+                        <i class="fas fa-check-circle text-lg"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-semibold mb-2">Understand Post-Treatment Care</h3>
+                        <p class="text-gray-700">Retainers are essential for maintaining your results.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Final Thoughts -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-secondary mb-6">Final Thoughts</h2>
+            <p class="text-lg text-gray-700 mb-6 leading-relaxed">
+                For 2025 in Lahore, typical braces cost ranges from PKR 50,000 to PKR 350,000 depending on braces type, case complexity, and clinic quality. Metal braces remain budget-friendly; clear aligners offer aesthetic and comfort advantages but come at a premium. Hidden costs can easily add another PKR 20–50k—so planning and transparency are key.
+            </p>
+            <p class="text-lg text-gray-700 leading-relaxed">
+                Braces are a long-term investment—choose a qualified orthodontist, ask the right questions, and make sure your treatment plan is tailored to your needs. With a well-researched approach, you can achieve beautiful, healthy results without unexpected financial stress.
+            </p>
+        </section>
+
+        <!-- CTA -->
+        <section class="bg-gradient-to-r from-primary to-secondary text-white rounded-2xl p-8 text-center">
+            <h2 class="text-3xl font-bold mb-4">Ready for Your Perfect Smile?</h2>
+            <p class="text-xl mb-6 max-w-2xl mx-auto">
+                Consult with top orthodontists in Lahore to find the best braces solution for you
+            </p>
+            
+            <div class="mt-8">
+                <button class="bg-white text-primary font-bold py-3 px-8 rounded-full text-lg hover:bg-blue-50 transition duration-300">
+                    <i class="fas fa-calendar-check mr-2"></i>Book a Consultation
+                </button>
+            </div>
+            
+            <p class="mt-8 text-2xl font-bold italic">Invest in a smile you'll love for a lifetime</p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-12">
+        <div class="container mx-auto px-4">
+            <div class="text-center">
+                <p class="mb-4">© 2025 Lahore Dental Guide. All rights reserved.</p>
+                <p>This content is for informational purposes only. Consult with an orthodontic specialist for personalized advice.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html> `,
   4:
   `<div class="container">
   <h1>Teeth Whitening in Faisalabad – Which Option Is Right for You?</h1>

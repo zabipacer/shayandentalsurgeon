@@ -33,23 +33,12 @@ const Footer = () => {
         <nav aria-label="Quick Links">
           <h4 className="text-xl font-semibold mb-4">Quick Links</h4>
           <ul className="text-sm space-y-2">
-            <li><a href="/about" className="hover:underline">About Us</a></li>
-            <li><a href="/services" className="hover:underline">Dental Services</a></li>
-            <li><a href="/contact" className="hover:underline">Contact</a></li>
-            <li><a href="/blog" className="hover:underline">Blog</a></li>
+            <li><a href="/blogs" className="hover:underline">Blog</a></li>
           </ul>
         </nav>
 
         {/* Services */}
-        <nav aria-label="Top Services">
-          <h4 className="text-xl font-semibold mb-4">Top Services</h4>
-          <ul className="text-sm space-y-2">
-            <li><a href="/dental-implants-faisalabad" className="hover:underline">Dental Implants Lahore</a></li>
-            <li><a href="/braces-faisalabad" className="hover:underline">Braces Treatment</a></li>
-            <li><a href="/root-canal-faisalabad" className="hover:underline">Root Canal Treatment</a></li>
-            <li><a href="/teeth-whitening-faisalabad" className="hover:underline">Teeth Whitening</a></li>
-          </ul>
-        </nav>
+      
 
         {/* Social & SEO */}
         <div>
